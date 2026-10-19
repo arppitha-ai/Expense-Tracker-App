@@ -1,0 +1,732 @@
+Date,Category,Description,Amount,Type,Payment_Method,Year,Month,Month_Name,Quarter,Weekday,Is_Weekend
+2025-01-01,Salary,Monthly salary,50000.0,Income,Bank Transfer,2025,2025-01,January,Q1,Wednesday,False
+2025-01-01,Food,Lunch,260.0,Expense,Debit Card,2025,2025-01,January,Q1,Wednesday,False
+2025-01-02,Food,Breakfast,175.0,Expense,Credit Card,2025,2025-01,January,Q1,Thursday,False
+2025-01-02,Transport,Auto fare,150.0,Expense,UPI,2025,2025-01,January,Q1,Thursday,False
+2025-01-03,Food,Dinner,159.0,Expense,Credit Card,2025,2025-01,January,Q1,Friday,False
+2025-01-03,Transport,Metro card recharge,149.0,Expense,UPI,2025,2025-01,January,Q1,Friday,False
+2025-01-04,Food,Swiggy order,292.0,Expense,UPI,2025,2025-01,January,Q1,Saturday,True
+2025-01-04,Food,Snacks,210.0,Expense,UPI,2025,2025-01,January,Q1,Saturday,True
+2025-01-05,Food,Swiggy order,233.0,Expense,UPI,2025,2025-01,January,Q1,Sunday,True
+2025-01-05,Entertainment,Bowling,514.0,Expense,Credit Card,2025,2025-01,January,Q1,Sunday,True
+2025-01-05,Rent,House rent,12000.0,Expense,Bank Transfer,2025,2025-01,January,Q1,Sunday,True
+2025-01-06,Food,Lunch,128.0,Expense,UPI,2025,2025-01,January,Q1,Monday,False
+2025-01-06,Transport,Auto fare,215.0,Expense,UPI,2025,2025-01,January,Q1,Monday,False
+2025-01-07,Food,Snacks,145.0,Expense,UPI,2025,2025-01,January,Q1,Tuesday,False
+2025-01-07,Transport,Metro card recharge,56.0,Expense,UPI,2025,2025-01,January,Q1,Tuesday,False
+2025-01-07,Shopping,Flipkart order,1213.0,Expense,Credit Card,2025,2025-01,January,Q1,Tuesday,False
+2025-01-08,Education,Books,3493.0,Expense,UPI,2025,2025-01,January,Q1,Wednesday,False
+2025-01-08,Food,Cafe,144.0,Expense,UPI,2025,2025-01,January,Q1,Wednesday,False
+2025-01-08,Food,Snacks,99.0,Expense,UPI,2025,2025-01,January,Q1,Wednesday,False
+2025-01-08,Transport,Auto fare,160.0,Expense,Cash,2025,2025-01,January,Q1,Wednesday,False
+2025-01-09,Food,Zomato order,89.0,Expense,Debit Card,2025,2025-01,January,Q1,Thursday,False
+2025-01-10,Transport,Fuel,156.0,Expense,UPI,2025,2025-01,January,Q1,Friday,False
+2025-01-10,Bills,Electricity bill,1367.0,Expense,Bank Transfer,2025,2025-01,January,Q1,Friday,False
+2025-01-10,Food,Lunch,111.0,Expense,Debit Card,2025,2025-01,January,Q1,Friday,False
+2025-01-11,Food,Lunch,223.0,Expense,Cash,2025,2025-01,January,Q1,Saturday,True
+2025-01-11,Food,Groceries,198.0,Expense,UPI,2025,2025-01,January,Q1,Saturday,True
+2025-01-11,Shopping,Clothes,2034.0,Expense,Credit Card,2025,2025-01,January,Q1,Saturday,True
+2025-01-11,Entertainment,Dinner out with friends,311.0,Expense,UPI,2025,2025-01,January,Q1,Saturday,True
+2025-01-12,Bills,Internet bill,799.0,Expense,UPI,2025,2025-01,January,Q1,Sunday,True
+2025-01-12,Food,Breakfast,114.0,Expense,UPI,2025,2025-01,January,Q1,Sunday,True
+2025-01-12,Food,Breakfast,254.0,Expense,UPI,2025,2025-01,January,Q1,Sunday,True
+2025-01-13,Transport,Metro card recharge,132.0,Expense,UPI,2025,2025-01,January,Q1,Monday,False
+2025-01-13,Food,Breakfast,141.0,Expense,UPI,2025,2025-01,January,Q1,Monday,False
+2025-01-14,Transport,Fuel,59.0,Expense,UPI,2025,2025-01,January,Q1,Tuesday,False
+2025-01-14,Food,Cafe,377.0,Expense,Credit Card,2025,2025-01,January,Q1,Tuesday,False
+2025-01-15,Bills,Mobile recharge,399.0,Expense,Bank Transfer,2025,2025-01,January,Q1,Wednesday,False
+2025-01-15,Food,Pizza order,202.0,Expense,UPI,2025,2025-01,January,Q1,Wednesday,False
+2025-01-15,Transport,Bus pass,157.0,Expense,UPI,2025,2025-01,January,Q1,Wednesday,False
+2025-01-16,Food,Pizza order,161.0,Expense,UPI,2025,2025-01,January,Q1,Thursday,False
+2025-01-16,Transport,Uber ride,94.0,Expense,UPI,2025,2025-01,January,Q1,Thursday,False
+2025-01-16,Shopping,Gadget accessory,2262.0,Expense,Credit Card,2025,2025-01,January,Q1,Thursday,False
+2025-01-17,Food,Snacks,157.0,Expense,Cash,2025,2025-01,January,Q1,Friday,False
+2025-01-18,Entertainment,Movie tickets,572.0,Expense,UPI,2025,2025-01,January,Q1,Saturday,True
+2025-01-19,Food,Snacks,151.0,Expense,UPI,2025,2025-01,January,Q1,Sunday,True
+2025-01-20,Transport,Auto fare,99.0,Expense,UPI,2025,2025-01,January,Q1,Monday,False
+2025-01-20,Subscriptions,Netflix,649.0,Expense,Credit Card,2025,2025-01,January,Q1,Monday,False
+2025-01-21,Transport,Auto fare,133.0,Expense,UPI,2025,2025-01,January,Q1,Tuesday,False
+2025-01-22,Subscriptions,Spotify,119.0,Expense,Credit Card,2025,2025-01,January,Q1,Wednesday,False
+2025-01-23,Food,Swiggy order,127.0,Expense,UPI,2025,2025-01,January,Q1,Thursday,False
+2025-01-23,Transport,Fuel,87.0,Expense,UPI,2025,2025-01,January,Q1,Thursday,False
+2025-01-24,Food,Groceries,95.0,Expense,Cash,2025,2025-01,January,Q1,Friday,False
+2025-01-24,Shopping,Home items,722.0,Expense,Credit Card,2025,2025-01,January,Q1,Friday,False
+2025-01-25,Freelance,Freelance project payment,8500.0,Income,Bank Transfer,2025,2025-01,January,Q1,Saturday,True
+2025-01-25,Food,Breakfast,119.0,Expense,UPI,2025,2025-01,January,Q1,Saturday,True
+2025-01-25,Food,Lunch,196.0,Expense,UPI,2025,2025-01,January,Q1,Saturday,True
+2025-01-26,Entertainment,Concert,938.0,Expense,UPI,2025,2025-01,January,Q1,Sunday,True
+2025-01-26,Food,Lunch,160.0,Expense,UPI,2025,2025-01,January,Q1,Sunday,True
+2025-01-27,Food,Dinner,291.0,Expense,UPI,2025,2025-01,January,Q1,Monday,False
+2025-01-27,Food,Snacks,211.0,Expense,Credit Card,2025,2025-01,January,Q1,Monday,False
+2025-01-28,Food,Breakfast,162.0,Expense,UPI,2025,2025-01,January,Q1,Tuesday,False
+2025-01-28,Transport,Bus pass,26.0,Expense,UPI,2025,2025-01,January,Q1,Tuesday,False
+2025-01-29,Food,Cafe,370.0,Expense,UPI,2025,2025-01,January,Q1,Wednesday,False
+2025-01-29,Transport,Fuel,116.0,Expense,Cash,2025,2025-01,January,Q1,Wednesday,False
+2025-01-30,Food,Dinner,207.0,Expense,Credit Card,2025,2025-01,January,Q1,Thursday,False
+2025-01-31,Food,Groceries,100.0,Expense,Credit Card,2025,2025-01,January,Q1,Friday,False
+2025-01-31,Transport,Fuel,242.0,Expense,UPI,2025,2025-01,January,Q1,Friday,False
+2025-02-01,Salary,Monthly salary,50000.0,Income,Bank Transfer,2025,2025-02,February,Q1,Saturday,True
+2025-02-03,Food,Swiggy order,224.0,Expense,UPI,2025,2025-02,February,Q1,Monday,False
+2025-02-04,Transport,Auto fare,46.0,Expense,UPI,2025,2025-02,February,Q1,Tuesday,False
+2025-02-05,Rent,House rent,12000.0,Expense,Bank Transfer,2025,2025-02,February,Q1,Wednesday,False
+2025-02-05,Food,Groceries,189.0,Expense,UPI,2025,2025-02,February,Q1,Wednesday,False
+2025-02-05,Transport,Metro card recharge,110.0,Expense,UPI,2025,2025-02,February,Q1,Wednesday,False
+2025-02-06,Food,Zomato order,117.0,Expense,UPI,2025,2025-02,February,Q1,Thursday,False
+2025-02-06,Transport,Fuel,266.0,Expense,Cash,2025,2025-02,February,Q1,Thursday,False
+2025-02-07,Food,Breakfast,350.0,Expense,UPI,2025,2025-02,February,Q1,Friday,False
+2025-02-07,Food,Snacks,306.0,Expense,Credit Card,2025,2025-02,February,Q1,Friday,False
+2025-02-07,Transport,Bus pass,75.0,Expense,UPI,2025,2025-02,February,Q1,Friday,False
+2025-02-08,Entertainment,Gaming,601.0,Expense,UPI,2025,2025-02,February,Q1,Saturday,True
+2025-02-09,Food,Breakfast,204.0,Expense,Credit Card,2025,2025-02,February,Q1,Sunday,True
+2025-02-09,Food,Cafe,245.0,Expense,UPI,2025,2025-02,February,Q1,Sunday,True
+2025-02-10,Bills,Electricity bill,903.0,Expense,UPI,2025,2025-02,February,Q1,Monday,False
+2025-02-10,Food,Dinner,87.0,Expense,UPI,2025,2025-02,February,Q1,Monday,False
+2025-02-11,Food,Cafe,120.0,Expense,UPI,2025,2025-02,February,Q1,Tuesday,False
+2025-02-11,Food,Swiggy order,163.0,Expense,Cash,2025,2025-02,February,Q1,Tuesday,False
+2025-02-12,Bills,Internet bill,799.0,Expense,UPI,2025,2025-02,February,Q1,Wednesday,False
+2025-02-12,Food,Snacks,91.0,Expense,UPI,2025,2025-02,February,Q1,Wednesday,False
+2025-02-12,Transport,Uber ride,111.0,Expense,Cash,2025,2025-02,February,Q1,Wednesday,False
+2025-02-13,Transport,Uber ride,155.0,Expense,Cash,2025,2025-02,February,Q1,Thursday,False
+2025-02-14,Food,Dinner,275.0,Expense,Debit Card,2025,2025-02,February,Q1,Friday,False
+2025-02-14,Transport,Fuel,111.0,Expense,UPI,2025,2025-02,February,Q1,Friday,False
+2025-02-15,Entertainment,Bowling,445.0,Expense,UPI,2025,2025-02,February,Q1,Saturday,True
+2025-02-15,Food,Groceries,152.0,Expense,UPI,2025,2025-02,February,Q1,Saturday,True
+2025-02-15,Food,Zomato order,257.0,Expense,UPI,2025,2025-02,February,Q1,Saturday,True
+2025-02-15,Bills,Mobile recharge,399.0,Expense,UPI,2025,2025-02,February,Q1,Saturday,True
+2025-02-16,Food,Breakfast,194.0,Expense,Cash,2025,2025-02,February,Q1,Sunday,True
+2025-02-17,Food,Cafe,188.0,Expense,Credit Card,2025,2025-02,February,Q1,Monday,False
+2025-02-18,Food,Snacks,229.0,Expense,Credit Card,2025,2025-02,February,Q1,Tuesday,False
+2025-02-18,Transport,Uber ride,158.0,Expense,UPI,2025,2025-02,February,Q1,Tuesday,False
+2025-02-19,Food,Dinner,314.0,Expense,UPI,2025,2025-02,February,Q1,Wednesday,False
+2025-02-19,Transport,Fuel,20.0,Expense,Debit Card,2025,2025-02,February,Q1,Wednesday,False
+2025-02-20,Food,Lunch,178.0,Expense,UPI,2025,2025-02,February,Q1,Thursday,False
+2025-02-20,Transport,Fuel,179.0,Expense,UPI,2025,2025-02,February,Q1,Thursday,False
+2025-02-20,Subscriptions,Netflix,649.0,Expense,Credit Card,2025,2025-02,February,Q1,Thursday,False
+2025-02-21,Food,Swiggy order,156.0,Expense,UPI,2025,2025-02,February,Q1,Friday,False
+2025-02-21,Transport,Metro card recharge,130.0,Expense,UPI,2025,2025-02,February,Q1,Friday,False
+2025-02-22,Subscriptions,Spotify,119.0,Expense,UPI,2025,2025-02,February,Q1,Saturday,True
+2025-02-22,Food,Breakfast,294.0,Expense,UPI,2025,2025-02,February,Q1,Saturday,True
+2025-02-22,Food,Snacks,370.0,Expense,UPI,2025,2025-02,February,Q1,Saturday,True
+2025-02-23,Food,Swiggy order,242.0,Expense,UPI,2025,2025-02,February,Q1,Sunday,True
+2025-02-23,Entertainment,Bowling,625.0,Expense,Credit Card,2025,2025-02,February,Q1,Sunday,True
+2025-02-24,Transport,Bus pass,65.0,Expense,UPI,2025,2025-02,February,Q1,Monday,False
+2025-02-25,Shopping,Flipkart order,525.0,Expense,UPI,2025,2025-02,February,Q1,Tuesday,False
+2025-02-25,Transport,Uber ride,134.0,Expense,UPI,2025,2025-02,February,Q1,Tuesday,False
+2025-02-25,Freelance,Freelance project payment,8500.0,Income,UPI,2025,2025-02,February,Q1,Tuesday,False
+2025-02-25,Food,Dinner,237.0,Expense,Debit Card,2025,2025-02,February,Q1,Tuesday,False
+2025-02-26,Food,Dinner,200.0,Expense,Cash,2025,2025-02,February,Q1,Wednesday,False
+2025-02-27,Food,Pizza order,117.0,Expense,Debit Card,2025,2025-02,February,Q1,Thursday,False
+2025-02-28,Food,Groceries,96.0,Expense,Credit Card,2025,2025-02,February,Q1,Friday,False
+2025-02-28,Food,Cafe,134.0,Expense,UPI,2025,2025-02,February,Q1,Friday,False
+2025-03-01,Salary,Monthly salary,50000.0,Income,Bank Transfer,2025,2025-03,March,Q1,Saturday,True
+2025-03-01,Food,Pizza order,312.0,Expense,UPI,2025,2025-03,March,Q1,Saturday,True
+2025-03-01,Entertainment,Concert,549.0,Expense,Credit Card,2025,2025-03,March,Q1,Saturday,True
+2025-03-02,Health,Gym fee,389.0,Expense,UPI,2025,2025-03,March,Q1,Sunday,True
+2025-03-02,Food,Breakfast,246.0,Expense,UPI,2025,2025-03,March,Q1,Sunday,True
+2025-03-04,Transport,Auto fare,38.0,Expense,UPI,2025,2025-03,March,Q1,Tuesday,False
+2025-03-05,Rent,House rent,12000.0,Expense,Bank Transfer,2025,2025-03,March,Q1,Wednesday,False
+2025-03-05,Food,Swiggy order,233.0,Expense,UPI,2025,2025-03,March,Q1,Wednesday,False
+2025-03-05,Transport,Bus pass,110.0,Expense,UPI,2025,2025-03,March,Q1,Wednesday,False
+2025-03-06,Food,Zomato order,390.0,Expense,UPI,2025,2025-03,March,Q1,Thursday,False
+2025-03-06,Transport,Uber ride,171.0,Expense,UPI,2025,2025-03,March,Q1,Thursday,False
+2025-03-07,Food,Swiggy order,169.0,Expense,UPI,2025,2025-03,March,Q1,Friday,False
+2025-03-08,Food,Swiggy order,315.0,Expense,Cash,2025,2025-03,March,Q1,Saturday,True
+2025-03-08,Entertainment,Concert,575.0,Expense,Cash,2025,2025-03,March,Q1,Saturday,True
+2025-03-09,Food,Dinner,319.0,Expense,UPI,2025,2025-03,March,Q1,Sunday,True
+2025-03-10,Food,Pizza order,152.0,Expense,UPI,2025,2025-03,March,Q1,Monday,False
+2025-03-10,Shopping,Amazon order,224.0,Expense,Credit Card,2025,2025-03,March,Q1,Monday,False
+2025-03-10,Bills,Electricity bill,1373.0,Expense,UPI,2025,2025-03,March,Q1,Monday,False
+2025-03-10,Food,Dinner,138.0,Expense,UPI,2025,2025-03,March,Q1,Monday,False
+2025-03-11,Food,Breakfast,107.0,Expense,UPI,2025,2025-03,March,Q1,Tuesday,False
+2025-03-11,Food,Pizza order,273.0,Expense,UPI,2025,2025-03,March,Q1,Tuesday,False
+2025-03-11,Transport,Fuel,105.0,Expense,UPI,2025,2025-03,March,Q1,Tuesday,False
+2025-03-11,Shopping,Amazon order,484.0,Expense,Credit Card,2025,2025-03,March,Q1,Tuesday,False
+2025-03-12,Bills,Internet bill,799.0,Expense,UPI,2025,2025-03,March,Q1,Wednesday,False
+2025-03-12,Food,Lunch,107.0,Expense,UPI,2025,2025-03,March,Q1,Wednesday,False
+2025-03-12,Transport,Auto fare,49.0,Expense,Cash,2025,2025-03,March,Q1,Wednesday,False
+2025-03-13,Transport,Metro card recharge,142.0,Expense,UPI,2025,2025-03,March,Q1,Thursday,False
+2025-03-13,Health,Pharmacy,193.0,Expense,Debit Card,2025,2025-03,March,Q1,Thursday,False
+2025-03-13,Food,Dinner,208.0,Expense,UPI,2025,2025-03,March,Q1,Thursday,False
+2025-03-14,Transport,Uber ride,164.0,Expense,Cash,2025,2025-03,March,Q1,Friday,False
+2025-03-14,Food,Swiggy order,74.0,Expense,Credit Card,2025,2025-03,March,Q1,Friday,False
+2025-03-15,Bills,Mobile recharge,399.0,Expense,UPI,2025,2025-03,March,Q1,Saturday,True
+2025-03-15,Food,Snacks,368.0,Expense,UPI,2025,2025-03,March,Q1,Saturday,True
+2025-03-16,Food,Cafe,258.0,Expense,UPI,2025,2025-03,March,Q1,Sunday,True
+2025-03-16,Food,Snacks,229.0,Expense,Cash,2025,2025-03,March,Q1,Sunday,True
+2025-03-17,Food,Lunch,186.0,Expense,Cash,2025,2025-03,March,Q1,Monday,False
+2025-03-17,Food,Cafe,203.0,Expense,Debit Card,2025,2025-03,March,Q1,Monday,False
+2025-03-17,Transport,Auto fare,114.0,Expense,Debit Card,2025,2025-03,March,Q1,Monday,False
+2025-03-18,Health,Emergency hospital visit,14500.0,Expense,Cash,2025,2025-03,March,Q1,Tuesday,False
+2025-03-18,Transport,Uber ride,110.0,Expense,UPI,2025,2025-03,March,Q1,Tuesday,False
+2025-03-19,Transport,Fuel,63.0,Expense,UPI,2025,2025-03,March,Q1,Wednesday,False
+2025-03-19,Food,Groceries,274.0,Expense,Credit Card,2025,2025-03,March,Q1,Wednesday,False
+2025-03-20,Subscriptions,Netflix,649.0,Expense,UPI,2025,2025-03,March,Q1,Thursday,False
+2025-03-20,Transport,Fuel,137.0,Expense,UPI,2025,2025-03,March,Q1,Thursday,False
+2025-03-22,Subscriptions,Spotify,119.0,Expense,UPI,2025,2025-03,March,Q1,Saturday,True
+2025-03-22,Food,Snacks,96.0,Expense,Credit Card,2025,2025-03,March,Q1,Saturday,True
+2025-03-23,Food,Cafe,133.0,Expense,Credit Card,2025,2025-03,March,Q1,Sunday,True
+2025-03-23,Entertainment,Bowling,885.0,Expense,Credit Card,2025,2025-03,March,Q1,Sunday,True
+2025-03-23,Health,Pharmacy,615.0,Expense,Cash,2025,2025-03,March,Q1,Sunday,True
+2025-03-24,Food,Pizza order,711.0,Expense,Cash,2025,2025-03,March,Q1,Monday,False
+2025-03-24,Transport,Uber ride,97.0,Expense,UPI,2025,2025-03,March,Q1,Monday,False
+2025-03-25,Food,Groceries,109.0,Expense,UPI,2025,2025-03,March,Q1,Tuesday,False
+2025-03-25,Freelance,Freelance project payment,4000.0,Income,UPI,2025,2025-03,March,Q1,Tuesday,False
+2025-03-26,Food,Swiggy order,131.0,Expense,UPI,2025,2025-03,March,Q1,Wednesday,False
+2025-03-26,Transport,Metro card recharge,185.0,Expense,Cash,2025,2025-03,March,Q1,Wednesday,False
+2025-03-27,Food,Snacks,168.0,Expense,Debit Card,2025,2025-03,March,Q1,Thursday,False
+2025-03-28,Food,Pizza order,55.0,Expense,Credit Card,2025,2025-03,March,Q1,Friday,False
+2025-03-28,Transport,Auto fare,94.0,Expense,UPI,2025,2025-03,March,Q1,Friday,False
+2025-03-29,Food,Swiggy order,111.0,Expense,UPI,2025,2025-03,March,Q1,Saturday,True
+2025-03-29,Food,Breakfast,231.0,Expense,UPI,2025,2025-03,March,Q1,Saturday,True
+2025-03-29,Entertainment,Dinner out with friends,457.0,Expense,UPI,2025,2025-03,March,Q1,Saturday,True
+2025-03-30,Food,Dinner,372.0,Expense,Credit Card,2025,2025-03,March,Q1,Sunday,True
+2025-03-30,Food,Lunch,284.0,Expense,Cash,2025,2025-03,March,Q1,Sunday,True
+2025-03-31,Transport,Fuel,108.0,Expense,UPI,2025,2025-03,March,Q1,Monday,False
+2025-03-31,Food,Breakfast,179.0,Expense,UPI,2025,2025-03,March,Q1,Monday,False
+2025-04-01,Salary,Monthly salary,50000.0,Income,Bank Transfer,2025,2025-04,April,Q2,Tuesday,False
+2025-04-01,Food,Zomato order,195.0,Expense,UPI,2025,2025-04,April,Q2,Tuesday,False
+2025-04-01,Transport,Auto fare,211.0,Expense,UPI,2025,2025-04,April,Q2,Tuesday,False
+2025-04-02,Food,Groceries,145.0,Expense,Debit Card,2025,2025-04,April,Q2,Wednesday,False
+2025-04-03,Transport,Uber ride,78.0,Expense,UPI,2025,2025-04,April,Q2,Thursday,False
+2025-04-04,Food,Swiggy order,180.0,Expense,Cash,2025,2025-04,April,Q2,Friday,False
+2025-04-04,Transport,Auto fare,53.0,Expense,UPI,2025,2025-04,April,Q2,Friday,False
+2025-04-04,Shopping,Flipkart order,919.0,Expense,Credit Card,2025,2025-04,April,Q2,Friday,False
+2025-04-05,Rent,House rent,12000.0,Expense,Bank Transfer,2025,2025-04,April,Q2,Saturday,True
+2025-04-05,Food,Swiggy order,363.0,Expense,Cash,2025,2025-04,April,Q2,Saturday,True
+2025-04-06,Food,Groceries,262.0,Expense,UPI,2025,2025-04,April,Q2,Sunday,True
+2025-04-07,Food,Breakfast,331.0,Expense,UPI,2025,2025-04,April,Q2,Monday,False
+2025-04-08,Food,Lunch,246.0,Expense,UPI,2025,2025-04,April,Q2,Tuesday,False
+2025-04-08,Transport,Fuel,176.0,Expense,UPI,2025,2025-04,April,Q2,Tuesday,False
+2025-04-08,Shopping,Amazon order,719.0,Expense,UPI,2025,2025-04,April,Q2,Tuesday,False
+2025-04-08,Uncategorized,Lab tests,253.0,Expense,UPI,2025,2025-04,April,Q2,Tuesday,False
+2025-04-09,Transport,Bus pass,124.0,Expense,UPI,2025,2025-04,April,Q2,Wednesday,False
+2025-04-10,Bills,Electricity bill,2169.0,Expense,UPI,2025,2025-04,April,Q2,Thursday,False
+2025-04-10,Food,Snacks,144.0,Expense,Cash,2025,2025-04,April,Q2,Thursday,False
+2025-04-10,Transport,Metro card recharge,225.0,Expense,Debit Card,2025,2025-04,April,Q2,Thursday,False
+2025-04-11,Food,Groceries,265.0,Expense,UPI,2025,2025-04,April,Q2,Friday,False
+2025-04-12,Food,Pizza order,144.0,Expense,Debit Card,2025,2025-04,April,Q2,Saturday,True
+2025-04-12,Food,Zomato order,150.0,Expense,Debit Card,2025,2025-04,April,Q2,Saturday,True
+2025-04-12,Bills,Internet bill,799.0,Expense,UPI,2025,2025-04,April,Q2,Saturday,True
+2025-04-13,Food,Groceries,236.0,Expense,UPI,2025,2025-04,April,Q2,Sunday,True
+2025-04-13,Uncategorized,Dinner,270.0,Expense,UPI,2025,2025-04,April,Q2,Sunday,True
+2025-04-14,Food,Lunch,209.0,Expense,UPI,2025,2025-04,April,Q2,Monday,False
+2025-04-14,Shopping,Home items,784.0,Expense,Debit Card,2025,2025-04,April,Q2,Monday,False
+2025-04-15,Bills,Mobile recharge,399.0,Expense,UPI,2025,2025-04,April,Q2,Tuesday,False
+2025-04-15,Food,Groceries,324.0,Expense,UPI,2025,2025-04,April,Q2,Tuesday,False
+2025-04-16,Food,Breakfast,228.0,Expense,UPI,2025,2025-04,April,Q2,Wednesday,False
+2025-04-17,Food,Swiggy order,263.0,Expense,UPI,2025,2025-04,April,Q2,Thursday,False
+2025-04-17,Transport,Uber ride,172.0,Expense,Cash,2025,2025-04,April,Q2,Thursday,False
+2025-04-18,Food,Zomato order,248.0,Expense,Cash,2025,2025-04,April,Q2,Friday,False
+2025-04-19,Shopping,Amazon order,1112.0,Expense,Credit Card,2025,2025-04,April,Q2,Saturday,True
+2025-04-19,Entertainment,Movie tickets,501.0,Expense,UPI,2025,2025-04,April,Q2,Saturday,True
+2025-04-20,Subscriptions,Netflix,649.0,Expense,Credit Card,2025,2025-04,April,Q2,Sunday,True
+2025-04-20,Food,Breakfast,198.0,Expense,Credit Card,2025,2025-04,April,Q2,Sunday,True
+2025-04-20,Food,Cafe,196.0,Expense,Credit Card,2025,2025-04,April,Q2,Sunday,True
+2025-04-20,Shopping,Flipkart order,1950.0,Expense,Credit Card,2025,2025-04,April,Q2,Sunday,True
+2025-04-21,Food,Zomato order,69.0,Expense,UPI,2025,2025-04,April,Q2,Monday,False
+2025-04-21,Shopping,Gadget accessory,715.0,Expense,Credit Card,2025,2025-04,April,Q2,Monday,False
+2025-04-22,Subscriptions,Spotify,119.0,Expense,UPI,2025,2025-04,April,Q2,Tuesday,False
+2025-04-22,Food,Breakfast,233.0,Expense,UPI,2025,2025-04,April,Q2,Tuesday,False
+2025-04-23,Shopping,Shoes,452.0,Expense,Credit Card,2025,2025-04,April,Q2,Wednesday,False
+2025-04-23,Food,Dinner,152.0,Expense,Cash,2025,2025-04,April,Q2,Wednesday,False
+2025-04-23,Transport,Fuel,524.0,Expense,Cash,2025,2025-04,April,Q2,Wednesday,False
+2025-04-24,Food,Breakfast,121.0,Expense,UPI,2025,2025-04,April,Q2,Thursday,False
+2025-04-24,Transport,Uber ride,54.0,Expense,UPI,2025,2025-04,April,Q2,Thursday,False
+2025-04-24,Travel,Hotel stay,2849.0,Expense,Debit Card,2025,2025-04,April,Q2,Thursday,False
+2025-04-25,Food,Cafe,339.0,Expense,Debit Card,2025,2025-04,April,Q2,Friday,False
+2025-04-25,Transport,Auto fare,383.0,Expense,UPI,2025,2025-04,April,Q2,Friday,False
+2025-04-26,Food,Swiggy order,178.0,Expense,UPI,2025,2025-04,April,Q2,Saturday,True
+2025-04-26,Food,Lunch,165.0,Expense,UPI,2025,2025-04,April,Q2,Saturday,True
+2025-04-26,Entertainment,Gaming,563.0,Expense,Credit Card,2025,2025-04,April,Q2,Saturday,True
+2025-04-27,Shopping,Flipkart order,394.0,Expense,Credit Card,2025,2025-04,April,Q2,Sunday,True
+2025-04-28,Transport,Bus pass,186.0,Expense,Debit Card,2025,2025-04,April,Q2,Monday,False
+2025-04-28,Food,Lunch,205.0,Expense,UPI,2025,2025-04,April,Q2,Monday,False
+2025-04-29,Transport,Auto fare,30.0,Expense,UPI,2025,2025-04,April,Q2,Tuesday,False
+2025-04-30,Food,Swiggy order,342.0,Expense,Credit Card,2025,2025-04,April,Q2,Wednesday,False
+2025-04-30,Food,Groceries,108.0,Expense,UPI,2025,2025-04,April,Q2,Wednesday,False
+2025-04-30,Transport,Metro card recharge,125.0,Expense,Debit Card,2025,2025-04,April,Q2,Wednesday,False
+2025-05-01,Salary,Monthly salary,50000.0,Income,Bank Transfer,2025,2025-05,May,Q2,Thursday,False
+2025-05-01,Food,Zomato order,195.0,Expense,UPI,2025,2025-05,May,Q2,Thursday,False
+2025-05-01,Transport,Auto fare,117.0,Expense,UPI,2025,2025-05,May,Q2,Thursday,False
+2025-05-02,Food,Swiggy order,166.0,Expense,Credit Card,2025,2025-05,May,Q2,Friday,False
+2025-05-03,Travel,Flight tickets,2154.0,Expense,UPI,2025,2025-05,May,Q2,Saturday,True
+2025-05-04,Entertainment,Bowling,1114.0,Expense,Credit Card,2025,2025-05,May,Q2,Sunday,True
+2025-05-04,Food,Lunch,378.0,Expense,UPI,2025,2025-05,May,Q2,Sunday,True
+2025-05-04,Food,Cafe,316.0,Expense,UPI,2025,2025-05,May,Q2,Sunday,True
+2025-05-05,Rent,House rent,12000.0,Expense,Bank Transfer,2025,2025-05,May,Q2,Monday,False
+2025-05-05,Food,Cafe,249.0,Expense,Debit Card,2025,2025-05,May,Q2,Monday,False
+2025-05-06,Food,Swiggy order,224.0,Expense,Cash,2025,2025-05,May,Q2,Tuesday,False
+2025-05-06,Food,Swiggy order,56.0,Expense,Cash,2025,2025-05,May,Q2,Tuesday,False
+2025-05-06,Transport,Bus pass,97.0,Expense,UPI,2025,2025-05,May,Q2,Tuesday,False
+2025-05-07,Food,Zomato order,155.0,Expense,UPI,2025,2025-05,May,Q2,Wednesday,False
+2025-05-07,Transport,Auto fare,76.0,Expense,Cash,2025,2025-05,May,Q2,Wednesday,False
+2025-05-08,Food,Snacks,83.0,Expense,UPI,2025,2025-05,May,Q2,Thursday,False
+2025-05-08,Transport,Auto fare,63.0,Expense,Debit Card,2025,2025-05,May,Q2,Thursday,False
+2025-05-09,Food,Zomato order,576.0,Expense,Cash,2025,2025-05,May,Q2,Friday,False
+2025-05-09,Transport,Uber ride,156.0,Expense,UPI,2025,2025-05,May,Q2,Friday,False
+2025-05-10,Bills,Electricity bill,1985.0,Expense,UPI,2025,2025-05,May,Q2,Saturday,True
+2025-05-10,Shopping,Flipkart order,1261.0,Expense,UPI,2025,2025-05,May,Q2,Saturday,True
+2025-05-10,Entertainment,Concert,1075.0,Expense,UPI,2025,2025-05,May,Q2,Saturday,True
+2025-05-11,Food,Breakfast,186.0,Expense,UPI,2025,2025-05,May,Q2,Sunday,True
+2025-05-11,Food,Dinner,101.0,Expense,UPI,2025,2025-05,May,Q2,Sunday,True
+2025-05-12,Food,Dinner,204.0,Expense,Debit Card,2025,2025-05,May,Q2,Monday,False
+2025-05-12,Bills,Internet bill,799.0,Expense,Bank Transfer,2025,2025-05,May,Q2,Monday,False
+2025-05-12,Transport,Bus pass,168.0,Expense,UPI,2025,2025-05,May,Q2,Monday,False
+2025-05-13,Transport,Uber ride,63.0,Expense,Cash,2025,2025-05,May,Q2,Tuesday,False
+2025-05-13,Food,Cafe,158.0,Expense,UPI,2025,2025-05,May,Q2,Tuesday,False
+2025-05-14,Food,Breakfast,73.0,Expense,Debit Card,2025,2025-05,May,Q2,Wednesday,False
+2025-05-14,Food,Zomato order,223.0,Expense,Debit Card,2025,2025-05,May,Q2,Wednesday,False
+2025-05-15,Bills,Mobile recharge,399.0,Expense,UPI,2025,2025-05,May,Q2,Thursday,False
+2025-05-15,Food,Swiggy order,191.0,Expense,UPI,2025,2025-05,May,Q2,Thursday,False
+2025-05-15,Transport,Fuel,93.0,Expense,Cash,2025,2025-05,May,Q2,Thursday,False
+2025-05-16,Food,Lunch,266.0,Expense,Debit Card,2025,2025-05,May,Q2,Friday,False
+2025-05-16,Transport,Metro card recharge,106.0,Expense,UPI,2025,2025-05,May,Q2,Friday,False
+2025-05-17,Food,Snacks,297.0,Expense,UPI,2025,2025-05,May,Q2,Saturday,True
+2025-05-17,Food,Snacks,196.0,Expense,UPI,2025,2025-05,May,Q2,Saturday,True
+2025-05-19,Food,Lunch,159.0,Expense,UPI,2025,2025-05,May,Q2,Monday,False
+2025-05-20,Subscriptions,Netflix,649.0,Expense,Credit Card,2025,2025-05,May,Q2,Tuesday,False
+2025-05-20,Food,Pizza order,142.0,Expense,Cash,2025,2025-05,May,Q2,Tuesday,False
+2025-05-21,Food,Zomato order,116.0,Expense,UPI,2025,2025-05,May,Q2,Wednesday,False
+2025-05-22,Subscriptions,Spotify,119.0,Expense,Credit Card,2025,2025-05,May,Q2,Thursday,False
+2025-05-22,Food,Zomato order,282.0,Expense,Cash,2025,2025-05,May,Q2,Thursday,False
+2025-05-22,Food,Groceries,156.0,Expense,UPI,2025,2025-05,May,Q2,Thursday,False
+2025-05-22,Transport,Uber ride,95.0,Expense,UPI,2025,2025-05,May,Q2,Thursday,False
+2025-05-23,Food,Pizza order,118.0,Expense,UPI,2025,2025-05,May,Q2,Friday,False
+2025-05-23,Transport,Bus pass,134.0,Expense,UPI,2025,2025-05,May,Q2,Friday,False
+2025-05-24,Food,Lunch,256.0,Expense,Cash,2025,2025-05,May,Q2,Saturday,True
+2025-05-25,Food,Dinner,228.0,Expense,UPI,2025,2025-05,May,Q2,Sunday,True
+2025-05-25,Freelance,Freelance project payment,4100.0,Income,Bank Transfer,2025,2025-05,May,Q2,Sunday,True
+2025-05-25,Food,Lunch,217.0,Expense,UPI,2025,2025-05,May,Q2,Sunday,True
+2025-05-26,Transport,Fuel,38.0,Expense,Debit Card,2025,2025-05,May,Q2,Monday,False
+2025-05-27,Food,Groceries,292.0,Expense,UPI,2025,2025-05,May,Q2,Tuesday,False
+2025-05-27,Transport,Auto fare,167.0,Expense,UPI,2025,2025-05,May,Q2,Tuesday,False
+2025-05-28,Food,Swiggy order,80.0,Expense,Debit Card,2025,2025-05,May,Q2,Wednesday,False
+2025-05-29,Food,Zomato order,153.0,Expense,Cash,2025,2025-05,May,Q2,Thursday,False
+2025-05-29,Transport,Metro card recharge,152.0,Expense,UPI,2025,2025-05,May,Q2,Thursday,False
+2025-05-29,Shopping,Shoes,723.0,Expense,UPI,2025,2025-05,May,Q2,Thursday,False
+2025-05-30,Transport,Metro card recharge,60.0,Expense,UPI,2025,2025-05,May,Q2,Friday,False
+2025-05-30,Food,Pizza order,159.0,Expense,Debit Card,2025,2025-05,May,Q2,Friday,False
+2025-05-31,Health,Pharmacy,539.0,Expense,Cash,2025,2025-05,May,Q2,Saturday,True
+2025-05-31,Entertainment,Concert,755.0,Expense,Cash,2025,2025-05,May,Q2,Saturday,True
+2025-05-31,Food,Snacks,224.0,Expense,Credit Card,2025,2025-05,May,Q2,Saturday,True
+2025-05-31,Food,Groceries,258.0,Expense,Credit Card,2025,2025-05,May,Q2,Saturday,True
+2025-06-01,Salary,Monthly salary,50000.0,Income,Bank Transfer,2025,2025-06,June,Q2,Sunday,True
+2025-06-01,Food,Lunch,338.0,Expense,UPI,2025,2025-06,June,Q2,Sunday,True
+2025-06-01,Food,Zomato order,180.0,Expense,Credit Card,2025,2025-06,June,Q2,Sunday,True
+2025-06-02,Food,Swiggy order,346.0,Expense,Cash,2025,2025-06,June,Q2,Monday,False
+2025-06-02,Shopping,Flipkart order,383.0,Expense,Credit Card,2025,2025-06,June,Q2,Monday,False
+2025-06-03,Food,Swiggy order,143.0,Expense,UPI,2025,2025-06,June,Q2,Tuesday,False
+2025-06-03,Transport,Uber ride,126.0,Expense,Debit Card,2025,2025-06,June,Q2,Tuesday,False
+2025-06-04,Food,Lunch,240.0,Expense,Debit Card,2025,2025-06,June,Q2,Wednesday,False
+2025-06-04,Food,Dinner,220.0,Expense,Cash,2025,2025-06,June,Q2,Wednesday,False
+2025-06-05,Rent,House rent,12000.0,Expense,Bank Transfer,2025,2025-06,June,Q2,Thursday,False
+2025-06-05,Food,Lunch,182.0,Expense,UPI,2025,2025-06,June,Q2,Thursday,False
+2025-06-06,Transport,Bus pass,162.0,Expense,Cash,2025,2025-06,June,Q2,Friday,False
+2025-06-07,Food,Snacks,374.0,Expense,UPI,2025,2025-06,June,Q2,Saturday,True
+2025-06-08,Education,Online course,3069.0,Expense,UPI,2025,2025-06,June,Q2,Sunday,True
+2025-06-08,Food,Snacks,310.0,Expense,Debit Card,2025,2025-06,June,Q2,Sunday,True
+2025-06-09,Transport,Auto fare,120.0,Expense,UPI,2025,2025-06,June,Q2,Monday,False
+2025-06-10,Food,Zomato order,265.0,Expense,Cash,2025,2025-06,June,Q2,Tuesday,False
+2025-06-10,Shopping,Flipkart order,486.0,Expense,UPI,2025,2025-06,June,Q2,Tuesday,False
+2025-06-10,Bills,Electricity bill,2145.0,Expense,UPI,2025,2025-06,June,Q2,Tuesday,False
+2025-06-11,Food,Lunch,190.0,Expense,UPI,2025,2025-06,June,Q2,Wednesday,False
+2025-06-11,Shopping,Flipkart order,820.0,Expense,Debit Card,2025,2025-06,June,Q2,Wednesday,False
+2025-06-12,Bills,Internet bill,799.0,Expense,UPI,2025,2025-06,June,Q2,Thursday,False
+2025-06-12,Food,Snacks,495.0,Expense,UPI,2025,2025-06,June,Q2,Thursday,False
+2025-06-12,Transport,Metro card recharge,89.0,Expense,Cash,2025,2025-06,June,Q2,Thursday,False
+2025-06-13,Food,Pizza order,270.0,Expense,Credit Card,2025,2025-06,June,Q2,Friday,False
+2025-06-15,Food,Pizza order,231.0,Expense,Credit Card,2025,2025-06,June,Q2,Sunday,True
+2025-06-15,Bills,Mobile recharge,399.0,Expense,UPI,2025,2025-06,June,Q2,Sunday,True
+2025-06-15,Food,Breakfast,164.0,Expense,UPI,2025,2025-06,June,Q2,Sunday,True
+2025-06-16,Transport,Auto fare,107.0,Expense,Cash,2025,2025-06,June,Q2,Monday,False
+2025-06-16,Food,Zomato order,89.0,Expense,UPI,2025,2025-06,June,Q2,Monday,False
+2025-06-17,Food,Groceries,230.0,Expense,UPI,2025,2025-06,June,Q2,Tuesday,False
+2025-06-18,Transport,Bus pass,85.0,Expense,UPI,2025,2025-06,June,Q2,Wednesday,False
+2025-06-19,Food,Groceries,100.0,Expense,Cash,2025,2025-06,June,Q2,Thursday,False
+2025-06-19,Food,Snacks,106.0,Expense,UPI,2025,2025-06,June,Q2,Thursday,False
+2025-06-19,Transport,Auto fare,199.0,Expense,UPI,2025,2025-06,June,Q2,Thursday,False
+2025-06-20,Subscriptions,Netflix,649.0,Expense,Credit Card,2025,2025-06,June,Q2,Friday,False
+2025-06-20,Food,Breakfast,366.0,Expense,Cash,2025,2025-06,June,Q2,Friday,False
+2025-06-21,Food,Snacks,231.0,Expense,Debit Card,2025,2025-06,June,Q2,Saturday,True
+2025-06-21,Food,Swiggy order,301.0,Expense,UPI,2025,2025-06,June,Q2,Saturday,True
+2025-06-22,Entertainment,Gaming,597.0,Expense,Credit Card,2025,2025-06,June,Q2,Sunday,True
+2025-06-22,Food,Snacks,191.0,Expense,UPI,2025,2025-06,June,Q2,Sunday,True
+2025-06-22,Subscriptions,Spotify,119.0,Expense,Credit Card,2025,2025-06,June,Q2,Sunday,True
+2025-06-22,Food,Swiggy order,193.0,Expense,UPI,2025,2025-06,June,Q2,Sunday,True
+2025-06-23,Food,Groceries,170.0,Expense,Credit Card,2025,2025-06,June,Q2,Monday,False
+2025-06-24,Transport,Bus pass,103.0,Expense,Cash,2025,2025-06,June,Q2,Tuesday,False
+2025-06-25,Food,Swiggy order,343.0,Expense,Debit Card,2025,2025-06,June,Q2,Wednesday,False
+2025-06-26,Food,Pizza order,188.0,Expense,UPI,2025,2025-06,June,Q2,Thursday,False
+2025-06-27,Food,Breakfast,94.0,Expense,Credit Card,2025,2025-06,June,Q2,Friday,False
+2025-06-27,Transport,Metro card recharge,95.0,Expense,UPI,2025,2025-06,June,Q2,Friday,False
+2025-06-28,Food,Cafe,162.0,Expense,Credit Card,2025,2025-06,June,Q2,Saturday,True
+2025-06-28,Food,Breakfast,264.0,Expense,Cash,2025,2025-06,June,Q2,Saturday,True
+2025-06-29,Entertainment,Movie tickets,709.0,Expense,Credit Card,2025,2025-06,June,Q2,Sunday,True
+2025-06-29,Shopping,Shoes,1352.0,Expense,UPI,2025,2025-06,June,Q2,Sunday,True
+2025-06-30,Transport,Auto fare,355.0,Expense,UPI,2025,2025-06,June,Q2,Monday,False
+2025-07-01,Salary,Monthly salary,50000.0,Income,Bank Transfer,2025,2025-07,July,Q3,Tuesday,False
+2025-07-02,Food,Lunch,64.0,Expense,UPI,2025,2025-07,July,Q3,Wednesday,False
+2025-07-02,Transport,Uber ride,157.0,Expense,UPI,2025,2025-07,July,Q3,Wednesday,False
+2025-07-03,Transport,Metro card recharge,60.0,Expense,UPI,2025,2025-07,July,Q3,Thursday,False
+2025-07-05,Rent,House rent,12000.0,Expense,Bank Transfer,2025,2025-07,July,Q3,Saturday,True
+2025-07-05,Food,Snacks,135.0,Expense,Credit Card,2025,2025-07,July,Q3,Saturday,True
+2025-07-06,Food,Snacks,307.0,Expense,UPI,2025,2025-07,July,Q3,Sunday,True
+2025-07-06,Food,Groceries,184.0,Expense,Cash,2025,2025-07,July,Q3,Sunday,True
+2025-07-07,Food,Pizza order,96.0,Expense,UPI,2025,2025-07,July,Q3,Monday,False
+2025-07-08,Education,Certification exam fee,2519.0,Expense,UPI,2025,2025-07,July,Q3,Tuesday,False
+2025-07-08,Food,Snacks,190.0,Expense,UPI,2025,2025-07,July,Q3,Tuesday,False
+2025-07-09,Shopping,Flipkart order,613.0,Expense,Credit Card,2025,2025-07,July,Q3,Wednesday,False
+2025-07-10,Bills,Electricity bill,928.0,Expense,UPI,2025,2025-07,July,Q3,Thursday,False
+2025-07-10,Food,Cafe,243.0,Expense,UPI,2025,2025-07,July,Q3,Thursday,False
+2025-07-10,Transport,Auto fare,332.0,Expense,UPI,2025,2025-07,July,Q3,Thursday,False
+2025-07-11,Food,Breakfast,184.0,Expense,Credit Card,2025,2025-07,July,Q3,Friday,False
+2025-07-11,Transport,Bus pass,75.0,Expense,UPI,2025,2025-07,July,Q3,Friday,False
+2025-07-12,Bills,Internet bill,799.0,Expense,UPI,2025,2025-07,July,Q3,Saturday,True
+2025-07-12,Food,Swiggy order,245.0,Expense,Cash,2025,2025-07,July,Q3,Saturday,True
+2025-07-12,Entertainment,Dinner out with friends,482.0,Expense,Cash,2025,2025-07,July,Q3,Saturday,True
+2025-07-13,Food,Cafe,248.0,Expense,UPI,2025,2025-07,July,Q3,Sunday,True
+2025-07-13,Entertainment,Movie tickets,804.0,Expense,UPI,2025,2025-07,July,Q3,Sunday,True
+2025-07-14,Transport,Auto fare,75.0,Expense,UPI,2025,2025-07,July,Q3,Monday,False
+2025-07-14,Food,Swiggy order,126.0,Expense,Debit Card,2025,2025-07,July,Q3,Monday,False
+2025-07-14,Food,Swiggy order,183.0,Expense,UPI,2025,2025-07,July,Q3,Monday,False
+2025-07-15,Transport,Metro card recharge,263.0,Expense,UPI,2025,2025-07,July,Q3,Tuesday,False
+2025-07-15,Health,Lab tests,650.0,Expense,UPI,2025,2025-07,July,Q3,Tuesday,False
+2025-07-16,Food,Swiggy order,194.0,Expense,UPI,2025,2025-07,July,Q3,Wednesday,False
+2025-07-17,Transport,Auto fare,241.0,Expense,UPI,2025,2025-07,July,Q3,Thursday,False
+2025-07-18,Transport,Auto fare,84.0,Expense,Cash,2025,2025-07,July,Q3,Friday,False
+2025-07-19,Food,Swiggy order,204.0,Expense,UPI,2025,2025-07,July,Q3,Saturday,True
+2025-07-19,Entertainment,Dinner out with friends,436.0,Expense,UPI,2025,2025-07,July,Q3,Saturday,True
+2025-07-20,Shopping,Amazon order,990.0,Expense,Debit Card,2025,2025-07,July,Q3,Sunday,True
+2025-07-20,Food,Zomato order,146.0,Expense,UPI,2025,2025-07,July,Q3,Sunday,True
+2025-07-20,Subscriptions,Netflix,649.0,Expense,Credit Card,2025,2025-07,July,Q3,Sunday,True
+2025-07-20,Food,Zomato order,218.0,Expense,UPI,2025,2025-07,July,Q3,Sunday,True
+2025-07-21,Food,Lunch,186.0,Expense,Credit Card,2025,2025-07,July,Q3,Monday,False
+2025-07-22,Subscriptions,Spotify,119.0,Expense,Credit Card,2025,2025-07,July,Q3,Tuesday,False
+2025-07-22,Transport,Bus pass,140.0,Expense,UPI,2025,2025-07,July,Q3,Tuesday,False
+2025-07-22,Uncategorized,Gym fee,493.0,Expense,Cash,2025,2025-07,July,Q3,Tuesday,False
+2025-07-23,Transport,Fuel,152.0,Expense,UPI,2025,2025-07,July,Q3,Wednesday,False
+2025-07-24,Food,Dinner,178.0,Expense,Credit Card,2025,2025-07,July,Q3,Thursday,False
+2025-07-24,Transport,Fuel,123.0,Expense,UPI,2025,2025-07,July,Q3,Thursday,False
+2025-07-25,Food,Dinner,487.0,Expense,Credit Card,2025,2025-07,July,Q3,Friday,False
+2025-07-25,Freelance,Freelance project payment,6400.0,Income,Bank Transfer,2025,2025-07,July,Q3,Friday,False
+2025-07-26,Entertainment,Concert,727.0,Expense,UPI,2025,2025-07,July,Q3,Saturday,True
+2025-07-26,Shopping,Amazon order,1140.0,Expense,UPI,2025,2025-07,July,Q3,Saturday,True
+2025-07-26,Food,Dinner,389.0,Expense,Debit Card,2025,2025-07,July,Q3,Saturday,True
+2025-07-27,Food,Groceries,136.0,Expense,Credit Card,2025,2025-07,July,Q3,Sunday,True
+2025-07-27,Food,Dinner,290.0,Expense,Cash,2025,2025-07,July,Q3,Sunday,True
+2025-07-28,Transport,Metro card recharge,262.0,Expense,UPI,2025,2025-07,July,Q3,Monday,False
+2025-07-30,Food,Cafe,198.0,Expense,Cash,2025,2025-07,July,Q3,Wednesday,False
+2025-07-30,Food,Dinner,214.0,Expense,UPI,2025,2025-07,July,Q3,Wednesday,False
+2025-08-01,Salary,Monthly salary,50000.0,Income,Bank Transfer,2025,2025-08,August,Q3,Friday,False
+2025-08-01,Food,Swiggy order,112.0,Expense,UPI,2025,2025-08,August,Q3,Friday,False
+2025-08-01,Transport,Metro card recharge,39.0,Expense,UPI,2025,2025-08,August,Q3,Friday,False
+2025-08-02,Food,Dinner,230.0,Expense,Debit Card,2025,2025-08,August,Q3,Saturday,True
+2025-08-03,Shopping,Flipkart order,908.0,Expense,UPI,2025,2025-08,August,Q3,Sunday,True
+2025-08-03,Food,Groceries,343.0,Expense,UPI,2025,2025-08,August,Q3,Sunday,True
+2025-08-04,Food,Groceries,177.0,Expense,Credit Card,2025,2025-08,August,Q3,Monday,False
+2025-08-04,Shopping,Clothes,1274.0,Expense,Debit Card,2025,2025-08,August,Q3,Monday,False
+2025-08-05,Rent,House rent,12000.0,Expense,Bank Transfer,2025,2025-08,August,Q3,Tuesday,False
+2025-08-05,Food,Groceries,112.0,Expense,UPI,2025,2025-08,August,Q3,Tuesday,False
+2025-08-07,Food,Pizza order,122.0,Expense,Cash,2025,2025-08,August,Q3,Thursday,False
+2025-08-08,Food,Breakfast,197.0,Expense,UPI,2025,2025-08,August,Q3,Friday,False
+2025-08-08,Transport,Fuel,29.0,Expense,UPI,2025,2025-08,August,Q3,Friday,False
+2025-08-09,Entertainment,Movie tickets,526.0,Expense,Cash,2025,2025-08,August,Q3,Saturday,True
+2025-08-09,Food,Pizza order,201.0,Expense,UPI,2025,2025-08,August,Q3,Saturday,True
+2025-08-09,Food,Cafe,180.0,Expense,UPI,2025,2025-08,August,Q3,Saturday,True
+2025-08-10,Food,Lunch,260.0,Expense,Credit Card,2025,2025-08,August,Q3,Sunday,True
+2025-08-10,Bills,Electricity bill,1244.0,Expense,UPI,2025,2025-08,August,Q3,Sunday,True
+2025-08-10,Food,Dinner,363.0,Expense,UPI,2025,2025-08,August,Q3,Sunday,True
+2025-08-11,Food,Breakfast,140.0,Expense,UPI,2025,2025-08,August,Q3,Monday,False
+2025-08-12,Bills,Internet bill,799.0,Expense,UPI,2025,2025-08,August,Q3,Tuesday,False
+2025-08-12,Transport,Fuel,92.0,Expense,UPI,2025,2025-08,August,Q3,Tuesday,False
+2025-08-13,Transport,Auto fare,142.0,Expense,UPI,2025,2025-08,August,Q3,Wednesday,False
+2025-08-14,Food,Cafe,465.0,Expense,UPI,2025,2025-08,August,Q3,Thursday,False
+2025-08-14,Transport,Auto fare,238.0,Expense,UPI,2025,2025-08,August,Q3,Thursday,False
+2025-08-15,Food,Dinner,113.0,Expense,UPI,2025,2025-08,August,Q3,Friday,False
+2025-08-15,Bills,Mobile recharge,399.0,Expense,UPI,2025,2025-08,August,Q3,Friday,False
+2025-08-15,Transport,Auto fare,89.0,Expense,Cash,2025,2025-08,August,Q3,Friday,False
+2025-08-16,Entertainment,Gaming,912.0,Expense,Credit Card,2025,2025-08,August,Q3,Saturday,True
+2025-08-16,Food,Breakfast,203.0,Expense,UPI,2025,2025-08,August,Q3,Saturday,True
+2025-08-16,Shopping,Amazon order,503.0,Expense,Credit Card,2025,2025-08,August,Q3,Saturday,True
+2025-08-17,Food,Lunch,130.0,Expense,Cash,2025,2025-08,August,Q3,Sunday,True
+2025-08-17,Entertainment,Concert,937.0,Expense,Credit Card,2025,2025-08,August,Q3,Sunday,True
+2025-08-18,Transport,Metro card recharge,193.0,Expense,UPI,2025,2025-08,August,Q3,Monday,False
+2025-08-18,Food,Zomato order,331.0,Expense,UPI,2025,2025-08,August,Q3,Monday,False
+2025-08-19,Shopping,Clothes,923.0,Expense,UPI,2025,2025-08,August,Q3,Tuesday,False
+2025-08-20,Food,Snacks,129.0,Expense,Cash,2025,2025-08,August,Q3,Wednesday,False
+2025-08-20,Subscriptions,Netflix,649.0,Expense,Credit Card,2025,2025-08,August,Q3,Wednesday,False
+2025-08-21,Transport,Auto fare,108.0,Expense,UPI,2025,2025-08,August,Q3,Thursday,False
+2025-08-21,Food,Zomato order,195.0,Expense,Cash,2025,2025-08,August,Q3,Thursday,False
+2025-08-22,Subscriptions,Spotify,119.0,Expense,Credit Card,2025,2025-08,August,Q3,Friday,False
+2025-08-22,Food,Breakfast,220.0,Expense,UPI,2025,2025-08,August,Q3,Friday,False
+2025-08-22,Transport,Fuel,97.0,Expense,Cash,2025,2025-08,August,Q3,Friday,False
+2025-08-22,Shopping,Laptop repair + accessories,18500.0,Expense,Credit Card,2025,2025-08,August,Q3,Friday,False
+2025-08-23,Uncategorized,Pizza order,407.0,Expense,UPI,2025,2025-08,August,Q3,Saturday,True
+2025-08-24,Food,Groceries,231.0,Expense,UPI,2025,2025-08,August,Q3,Sunday,True
+2025-08-24,Food,Pizza order,570.0,Expense,UPI,2025,2025-08,August,Q3,Sunday,True
+2025-08-24,Entertainment,Bowling,754.0,Expense,Credit Card,2025,2025-08,August,Q3,Sunday,True
+2025-08-25,Food,Lunch,109.0,Expense,UPI,2025,2025-08,August,Q3,Monday,False
+2025-08-26,Food,Zomato order,549.0,Expense,UPI,2025,2025-08,August,Q3,Tuesday,False
+2025-08-27,Shopping,Gadget accessory,409.0,Expense,Credit Card,2025,2025-08,August,Q3,Wednesday,False
+2025-08-27,Food,Breakfast,117.0,Expense,Cash,2025,2025-08,August,Q3,Wednesday,False
+2025-08-27,Transport,Auto fare,83.0,Expense,UPI,2025,2025-08,August,Q3,Wednesday,False
+2025-08-28,Food,Dinner,308.0,Expense,UPI,2025,2025-08,August,Q3,Thursday,False
+2025-08-28,Food,Dinner,171.0,Expense,UPI,2025,2025-08,August,Q3,Thursday,False
+2025-08-29,Food,Pizza order,240.0,Expense,UPI,2025,2025-08,August,Q3,Friday,False
+2025-08-30,Food,Breakfast,232.0,Expense,UPI,2025,2025-08,August,Q3,Saturday,True
+2025-08-31,Health,Lab tests,714.0,Expense,Debit Card,2025,2025-08,August,Q3,Sunday,True
+2025-08-31,Food,Zomato order,157.0,Expense,UPI,2025,2025-08,August,Q3,Sunday,True
+2025-08-31,Food,Breakfast,598.0,Expense,Debit Card,2025,2025-08,August,Q3,Sunday,True
+2025-09-01,Health,Lab tests,605.0,Expense,Cash,2025,2025-09,September,Q3,Monday,False
+2025-09-01,Transport,Fuel,334.0,Expense,Cash,2025,2025-09,September,Q3,Monday,False
+2025-09-01,Salary,Monthly salary,50000.0,Income,Bank Transfer,2025,2025-09,September,Q3,Monday,False
+2025-09-01,Food,Snacks,200.0,Expense,UPI,2025,2025-09,September,Q3,Monday,False
+2025-09-02,Food,Groceries,379.0,Expense,UPI,2025,2025-09,September,Q3,Tuesday,False
+2025-09-02,Shopping,Amazon order,2802.0,Expense,Credit Card,2025,2025-09,September,Q3,Tuesday,False
+2025-09-02,Health,Gym fee,463.0,Expense,UPI,2025,2025-09,September,Q3,Tuesday,False
+2025-09-03,Food,Groceries,190.0,Expense,Cash,2025,2025-09,September,Q3,Wednesday,False
+2025-09-03,Transport,Bus pass,71.0,Expense,Debit Card,2025,2025-09,September,Q3,Wednesday,False
+2025-09-03,Shopping,Flipkart order,1314.0,Expense,Debit Card,2025,2025-09,September,Q3,Wednesday,False
+2025-09-04,Food,Zomato order,137.0,Expense,UPI,2025,2025-09,September,Q3,Thursday,False
+2025-09-04,Transport,Bus pass,162.0,Expense,UPI,2025,2025-09,September,Q3,Thursday,False
+2025-09-05,Food,Dinner,248.0,Expense,Credit Card,2025,2025-09,September,Q3,Friday,False
+2025-09-05,Rent,House rent,12000.0,Expense,Bank Transfer,2025,2025-09,September,Q3,Friday,False
+2025-09-06,Food,Lunch,145.0,Expense,Cash,2025,2025-09,September,Q3,Saturday,True
+2025-09-06,Entertainment,Gaming,1241.0,Expense,UPI,2025,2025-09,September,Q3,Saturday,True
+2025-09-07,Food,Dinner,153.0,Expense,UPI,2025,2025-09,September,Q3,Sunday,True
+2025-09-07,Entertainment,Gaming,736.0,Expense,Credit Card,2025,2025-09,September,Q3,Sunday,True
+2025-09-08,Uncategorized,Pizza order,321.0,Expense,Cash,2025,2025-09,September,Q3,Monday,False
+2025-09-09,Food,Cafe,297.0,Expense,UPI,2025,2025-09,September,Q3,Tuesday,False
+2025-09-09,Transport,Auto fare,87.0,Expense,Cash,2025,2025-09,September,Q3,Tuesday,False
+2025-09-10,Bills,Electricity bill,1195.0,Expense,Bank Transfer,2025,2025-09,September,Q3,Wednesday,False
+2025-09-10,Transport,Uber ride,54.0,Expense,UPI,2025,2025-09,September,Q3,Wednesday,False
+2025-09-11,Food,Lunch,169.0,Expense,Credit Card,2025,2025-09,September,Q3,Thursday,False
+2025-09-12,Food,Swiggy order,313.0,Expense,UPI,2025,2025-09,September,Q3,Friday,False
+2025-09-12,Bills,Internet bill,799.0,Expense,UPI,2025,2025-09,September,Q3,Friday,False
+2025-09-13,Food,Swiggy order,369.0,Expense,UPI,2025,2025-09,September,Q3,Saturday,True
+2025-09-13,Entertainment,Bowling,459.0,Expense,Cash,2025,2025-09,September,Q3,Saturday,True
+2025-09-14,Food,Breakfast,144.0,Expense,Credit Card,2025,2025-09,September,Q3,Sunday,True
+2025-09-14,Entertainment,Gaming,562.0,Expense,Cash,2025,2025-09,September,Q3,Sunday,True
+2025-09-15,Transport,Metro card recharge,84.0,Expense,UPI,2025,2025-09,September,Q3,Monday,False
+2025-09-17,Food,Breakfast,232.0,Expense,UPI,2025,2025-09,September,Q3,Wednesday,False
+2025-09-17,Transport,Metro card recharge,104.0,Expense,UPI,2025,2025-09,September,Q3,Wednesday,False
+2025-09-18,Food,Zomato order,87.0,Expense,UPI,2025,2025-09,September,Q3,Thursday,False
+2025-09-18,Transport,Bus pass,260.0,Expense,Cash,2025,2025-09,September,Q3,Thursday,False
+2025-09-18,Food,Cafe,154.0,Expense,Credit Card,2025,2025-09,September,Q3,Thursday,False
+2025-09-19,Food,Breakfast,261.0,Expense,Cash,2025,2025-09,September,Q3,Friday,False
+2025-09-19,Transport,Auto fare,72.0,Expense,UPI,2025,2025-09,September,Q3,Friday,False
+2025-09-20,Subscriptions,Netflix,649.0,Expense,Credit Card,2025,2025-09,September,Q3,Saturday,True
+2025-09-20,Food,Groceries,61.0,Expense,UPI,2025,2025-09,September,Q3,Saturday,True
+2025-09-21,Food,Breakfast,228.0,Expense,UPI,2025,2025-09,September,Q3,Sunday,True
+2025-09-21,Shopping,Amazon order,469.0,Expense,UPI,2025,2025-09,September,Q3,Sunday,True
+2025-09-22,Subscriptions,Spotify,119.0,Expense,Credit Card,2025,2025-09,September,Q3,Monday,False
+2025-09-22,Food,Swiggy order,158.0,Expense,UPI,2025,2025-09,September,Q3,Monday,False
+2025-09-23,Food,Cafe,111.0,Expense,Credit Card,2025,2025-09,September,Q3,Tuesday,False
+2025-09-24,Transport,Fuel,109.0,Expense,Cash,2025,2025-09,September,Q3,Wednesday,False
+2025-09-24,Health,Doctor consultation,193.0,Expense,UPI,2025,2025-09,September,Q3,Wednesday,False
+2025-09-24,Food,Groceries,269.0,Expense,UPI,2025,2025-09,September,Q3,Wednesday,False
+2025-09-25,Transport,Uber ride,188.0,Expense,UPI,2025,2025-09,September,Q3,Thursday,False
+2025-09-26,Food,Swiggy order,124.0,Expense,UPI,2025,2025-09,September,Q3,Friday,False
+2025-09-26,Transport,Fuel,190.0,Expense,Cash,2025,2025-09,September,Q3,Friday,False
+2025-09-27,Food,Lunch,284.0,Expense,UPI,2025,2025-09,September,Q3,Saturday,True
+2025-09-27,Food,Cafe,140.0,Expense,UPI,2025,2025-09,September,Q3,Saturday,True
+2025-09-28,Food,Dinner,215.0,Expense,Credit Card,2025,2025-09,September,Q3,Sunday,True
+2025-09-28,Uncategorized,Zomato order,430.0,Expense,Credit Card,2025,2025-09,September,Q3,Sunday,True
+2025-09-29,Transport,Metro card recharge,215.0,Expense,UPI,2025,2025-09,September,Q3,Monday,False
+2025-09-29,Food,Lunch,151.0,Expense,UPI,2025,2025-09,September,Q3,Monday,False
+2025-09-30,Health,Pharmacy,216.0,Expense,Debit Card,2025,2025-09,September,Q3,Tuesday,False
+2025-09-30,Food,Zomato order,193.0,Expense,UPI,2025,2025-09,September,Q3,Tuesday,False
+2025-09-30,Transport,Metro card recharge,96.0,Expense,UPI,2025,2025-09,September,Q3,Tuesday,False
+2025-10-01,Salary,Monthly salary,50000.0,Income,Bank Transfer,2025,2025-10,October,Q4,Wednesday,False
+2025-10-01,Food,Lunch,230.0,Expense,UPI,2025,2025-10,October,Q4,Wednesday,False
+2025-10-01,Food,Lunch,171.0,Expense,Debit Card,2025,2025-10,October,Q4,Wednesday,False
+2025-10-01,Transport,Uber ride,44.0,Expense,Debit Card,2025,2025-10,October,Q4,Wednesday,False
+2025-10-01,Shopping,Flipkart order,1611.0,Expense,UPI,2025,2025-10,October,Q4,Wednesday,False
+2025-10-02,Transport,Bus pass,246.0,Expense,UPI,2025,2025-10,October,Q4,Thursday,False
+2025-10-03,Transport,Fuel,85.0,Expense,UPI,2025,2025-10,October,Q4,Friday,False
+2025-10-04,Food,Snacks,247.0,Expense,Cash,2025,2025-10,October,Q4,Saturday,True
+2025-10-04,Entertainment,Bowling,436.0,Expense,UPI,2025,2025-10,October,Q4,Saturday,True
+2025-10-05,Food,Lunch,126.0,Expense,UPI,2025,2025-10,October,Q4,Sunday,True
+2025-10-05,Rent,House rent,12000.0,Expense,Bank Transfer,2025,2025-10,October,Q4,Sunday,True
+2025-10-06,Food,Groceries,72.0,Expense,Debit Card,2025,2025-10,October,Q4,Monday,False
+2025-10-06,Food,Breakfast,94.0,Expense,Credit Card,2025,2025-10,October,Q4,Monday,False
+2025-10-06,Transport,Fuel,144.0,Expense,UPI,2025,2025-10,October,Q4,Monday,False
+2025-10-07,Food,Dinner,181.0,Expense,Debit Card,2025,2025-10,October,Q4,Tuesday,False
+2025-10-07,Transport,Uber ride,155.0,Expense,UPI,2025,2025-10,October,Q4,Tuesday,False
+2025-10-07,Shopping,Flipkart order,614.0,Expense,UPI,2025,2025-10,October,Q4,Tuesday,False
+2025-10-08,Food,Zomato order,115.0,Expense,UPI,2025,2025-10,October,Q4,Wednesday,False
+2025-10-08,Transport,Metro card recharge,221.0,Expense,UPI,2025,2025-10,October,Q4,Wednesday,False
+2025-10-09,Food,Snacks,217.0,Expense,Cash,2025,2025-10,October,Q4,Thursday,False
+2025-10-10,Transport,Fuel,194.0,Expense,UPI,2025,2025-10,October,Q4,Friday,False
+2025-10-10,Food,Groceries,96.0,Expense,Credit Card,2025,2025-10,October,Q4,Friday,False
+2025-10-10,Food,Snacks,123.0,Expense,UPI,2025,2025-10,October,Q4,Friday,False
+2025-10-11,Shopping,Shoes,572.0,Expense,Credit Card,2025,2025-10,October,Q4,Saturday,True
+2025-10-12,Bills,Internet bill,799.0,Expense,UPI,2025,2025-10,October,Q4,Sunday,True
+2025-10-12,Food,Cafe,223.0,Expense,UPI,2025,2025-10,October,Q4,Sunday,True
+2025-10-12,Food,Swiggy order,208.0,Expense,Cash,2025,2025-10,October,Q4,Sunday,True
+2025-10-13,Food,Snacks,147.0,Expense,Cash,2025,2025-10,October,Q4,Monday,False
+2025-10-13,Transport,Uber ride,165.0,Expense,UPI,2025,2025-10,October,Q4,Monday,False
+2025-10-14,Food,Groceries,122.0,Expense,UPI,2025,2025-10,October,Q4,Tuesday,False
+2025-10-14,Transport,Uber ride,80.0,Expense,Cash,2025,2025-10,October,Q4,Tuesday,False
+2025-10-14,Shopping,Home items,1668.0,Expense,UPI,2025,2025-10,October,Q4,Tuesday,False
+2025-10-15,Shopping,Flipkart order,853.0,Expense,Credit Card,2025,2025-10,October,Q4,Wednesday,False
+2025-10-15,Bills,Mobile recharge,399.0,Expense,Bank Transfer,2025,2025-10,October,Q4,Wednesday,False
+2025-10-15,Food,Lunch,93.0,Expense,Cash,2025,2025-10,October,Q4,Wednesday,False
+2025-10-16,Food,Lunch,322.0,Expense,UPI,2025,2025-10,October,Q4,Thursday,False
+2025-10-16,Transport,Uber ride,275.0,Expense,UPI,2025,2025-10,October,Q4,Thursday,False
+2025-10-17,Food,Cafe,146.0,Expense,Debit Card,2025,2025-10,October,Q4,Friday,False
+2025-10-18,Food,Snacks,356.0,Expense,UPI,2025,2025-10,October,Q4,Saturday,True
+2025-10-19,Food,Zomato order,262.0,Expense,Debit Card,2025,2025-10,October,Q4,Sunday,True
+2025-10-20,Shopping,Diwali shopping spree,12000.0,Expense,Credit Card,2025,2025-10,October,Q4,Monday,False
+2025-10-20,Subscriptions,Netflix,649.0,Expense,Credit Card,2025,2025-10,October,Q4,Monday,False
+2025-10-20,Food,Cafe,133.0,Expense,Debit Card,2025,2025-10,October,Q4,Monday,False
+2025-10-20,Transport,Uber ride,141.0,Expense,Cash,2025,2025-10,October,Q4,Monday,False
+2025-10-21,Transport,Bus pass,113.0,Expense,Cash,2025,2025-10,October,Q4,Tuesday,False
+2025-10-22,Subscriptions,Spotify,119.0,Expense,Credit Card,2025,2025-10,October,Q4,Wednesday,False
+2025-10-22,Food,Groceries,144.0,Expense,UPI,2025,2025-10,October,Q4,Wednesday,False
+2025-10-22,Transport,Uber ride,282.0,Expense,UPI,2025,2025-10,October,Q4,Wednesday,False
+2025-10-22,Shopping,Amazon order,860.0,Expense,UPI,2025,2025-10,October,Q4,Wednesday,False
+2025-10-23,Transport,Auto fare,99.0,Expense,Cash,2025,2025-10,October,Q4,Thursday,False
+2025-10-24,Food,Groceries,191.0,Expense,Debit Card,2025,2025-10,October,Q4,Friday,False
+2025-10-24,Transport,Uber ride,201.0,Expense,Cash,2025,2025-10,October,Q4,Friday,False
+2025-10-25,Food,Swiggy order,179.0,Expense,UPI,2025,2025-10,October,Q4,Saturday,True
+2025-10-25,Food,Dinner,175.0,Expense,Debit Card,2025,2025-10,October,Q4,Saturday,True
+2025-10-25,Freelance,Freelance project payment,3000.0,Income,UPI,2025,2025-10,October,Q4,Saturday,True
+2025-10-26,Shopping,Clothes,456.0,Expense,Debit Card,2025,2025-10,October,Q4,Sunday,True
+2025-10-26,Food,Dinner,164.0,Expense,UPI,2025,2025-10,October,Q4,Sunday,True
+2025-10-27,Food,Snacks,242.0,Expense,UPI,2025,2025-10,October,Q4,Monday,False
+2025-10-27,Food,Zomato order,173.0,Expense,Debit Card,2025,2025-10,October,Q4,Monday,False
+2025-10-27,Transport,Bus pass,74.0,Expense,UPI,2025,2025-10,October,Q4,Monday,False
+2025-10-27,Shopping,Flipkart order,2373.0,Expense,Debit Card,2025,2025-10,October,Q4,Monday,False
+2025-10-28,Food,Swiggy order,117.0,Expense,Cash,2025,2025-10,October,Q4,Tuesday,False
+2025-10-28,Food,Snacks,185.0,Expense,Cash,2025,2025-10,October,Q4,Tuesday,False
+2025-10-28,Transport,Auto fare,168.0,Expense,Cash,2025,2025-10,October,Q4,Tuesday,False
+2025-10-29,Transport,Uber ride,124.0,Expense,UPI,2025,2025-10,October,Q4,Wednesday,False
+2025-10-29,Shopping,Home items,1923.0,Expense,UPI,2025,2025-10,October,Q4,Wednesday,False
+2025-10-30,Transport,Uber ride,150.0,Expense,Cash,2025,2025-10,October,Q4,Thursday,False
+2025-10-30,Food,Breakfast,119.0,Expense,UPI,2025,2025-10,October,Q4,Thursday,False
+2025-10-31,Food,Dinner,205.0,Expense,Cash,2025,2025-10,October,Q4,Friday,False
+2025-10-31,Transport,Uber ride,596.0,Expense,UPI,2025,2025-10,October,Q4,Friday,False
+2025-10-31,Shopping,Flipkart order,592.0,Expense,Credit Card,2025,2025-10,October,Q4,Friday,False
+2025-11-01,Salary,Monthly salary,50000.0,Income,Bank Transfer,2025,2025-11,November,Q4,Saturday,True
+2025-11-01,Food,Snacks,149.0,Expense,UPI,2025,2025-11,November,Q4,Saturday,True
+2025-11-01,Shopping,Home items,1704.0,Expense,Credit Card,2025,2025-11,November,Q4,Saturday,True
+2025-11-02,Entertainment,Bowling,582.0,Expense,Credit Card,2025,2025-11,November,Q4,Sunday,True
+2025-11-03,Transport,Auto fare,73.0,Expense,Cash,2025,2025-11,November,Q4,Monday,False
+2025-11-03,Food,Swiggy order,92.0,Expense,Cash,2025,2025-11,November,Q4,Monday,False
+2025-11-03,Food,Breakfast,123.0,Expense,UPI,2025,2025-11,November,Q4,Monday,False
+2025-11-04,Shopping,Shoes,1200.0,Expense,Credit Card,2025,2025-11,November,Q4,Tuesday,False
+2025-11-04,Transport,Fuel,100.0,Expense,UPI,2025,2025-11,November,Q4,Tuesday,False
+2025-11-04,Food,Groceries,270.0,Expense,Credit Card,2025,2025-11,November,Q4,Tuesday,False
+2025-11-05,Rent,House rent,12000.0,Expense,Bank Transfer,2025,2025-11,November,Q4,Wednesday,False
+2025-11-05,Food,Groceries,107.0,Expense,UPI,2025,2025-11,November,Q4,Wednesday,False
+2025-11-05,Transport,Fuel,248.0,Expense,UPI,2025,2025-11,November,Q4,Wednesday,False
+2025-11-06,Food,Snacks,191.0,Expense,Debit Card,2025,2025-11,November,Q4,Thursday,False
+2025-11-06,Transport,Auto fare,174.0,Expense,UPI,2025,2025-11,November,Q4,Thursday,False
+2025-11-06,Shopping,Amazon order,2227.0,Expense,Credit Card,2025,2025-11,November,Q4,Thursday,False
+2025-11-07,Food,Swiggy order,237.0,Expense,Cash,2025,2025-11,November,Q4,Friday,False
+2025-11-07,Transport,Uber ride,72.0,Expense,UPI,2025,2025-11,November,Q4,Friday,False
+2025-11-07,Shopping,Home items,1102.0,Expense,UPI,2025,2025-11,November,Q4,Friday,False
+2025-11-08,Entertainment,Dinner out with friends,386.0,Expense,UPI,2025,2025-11,November,Q4,Saturday,True
+2025-11-08,Food,Zomato order,217.0,Expense,UPI,2025,2025-11,November,Q4,Saturday,True
+2025-11-10,Bills,Electricity bill,995.0,Expense,UPI,2025,2025-11,November,Q4,Monday,False
+2025-11-10,Food,Breakfast,118.0,Expense,Cash,2025,2025-11,November,Q4,Monday,False
+2025-11-10,Health,Lab tests,272.0,Expense,UPI,2025,2025-11,November,Q4,Monday,False
+2025-11-11,Food,Lunch,373.0,Expense,Cash,2025,2025-11,November,Q4,Tuesday,False
+2025-11-12,Bills,Internet bill,799.0,Expense,UPI,2025,2025-11,November,Q4,Wednesday,False
+2025-11-12,Food,Dinner,107.0,Expense,UPI,2025,2025-11,November,Q4,Wednesday,False
+2025-11-12,Transport,Fuel,167.0,Expense,UPI,2025,2025-11,November,Q4,Wednesday,False
+2025-11-13,Food,Swiggy order,264.0,Expense,Credit Card,2025,2025-11,November,Q4,Thursday,False
+2025-11-13,Food,Swiggy order,218.0,Expense,Debit Card,2025,2025-11,November,Q4,Thursday,False
+2025-11-14,Health,Doctor consultation,375.0,Expense,Cash,2025,2025-11,November,Q4,Friday,False
+2025-11-14,Food,Lunch,228.0,Expense,UPI,2025,2025-11,November,Q4,Friday,False
+2025-11-15,Bills,Mobile recharge,399.0,Expense,UPI,2025,2025-11,November,Q4,Saturday,True
+2025-11-15,Food,Swiggy order,314.0,Expense,UPI,2025,2025-11,November,Q4,Saturday,True
+2025-11-16,Food,Cafe,95.0,Expense,Cash,2025,2025-11,November,Q4,Sunday,True
+2025-11-16,Shopping,Shoes,776.0,Expense,Credit Card,2025,2025-11,November,Q4,Sunday,True
+2025-11-16,Entertainment,Gaming,261.0,Expense,Credit Card,2025,2025-11,November,Q4,Sunday,True
+2025-11-17,Transport,Metro card recharge,140.0,Expense,UPI,2025,2025-11,November,Q4,Monday,False
+2025-11-19,Food,Groceries,134.0,Expense,UPI,2025,2025-11,November,Q4,Wednesday,False
+2025-11-19,Food,Zomato order,183.0,Expense,Cash,2025,2025-11,November,Q4,Wednesday,False
+2025-11-19,Transport,Uber ride,69.0,Expense,UPI,2025,2025-11,November,Q4,Wednesday,False
+2025-11-20,Transport,Fuel,83.0,Expense,Debit Card,2025,2025-11,November,Q4,Thursday,False
+2025-11-20,Subscriptions,Netflix,649.0,Expense,Credit Card,2025,2025-11,November,Q4,Thursday,False
+2025-11-20,Food,Breakfast,85.0,Expense,Cash,2025,2025-11,November,Q4,Thursday,False
+2025-11-21,Food,Swiggy order,396.0,Expense,UPI,2025,2025-11,November,Q4,Friday,False
+2025-11-21,Transport,Fuel,118.0,Expense,Cash,2025,2025-11,November,Q4,Friday,False
+2025-11-22,Subscriptions,Spotify,119.0,Expense,UPI,2025,2025-11,November,Q4,Saturday,True
+2025-11-22,Food,Swiggy order,287.0,Expense,Cash,2025,2025-11,November,Q4,Saturday,True
+2025-11-22,Food,Zomato order,197.0,Expense,Credit Card,2025,2025-11,November,Q4,Saturday,True
+2025-11-23,Food,Swiggy order,126.0,Expense,Cash,2025,2025-11,November,Q4,Sunday,True
+2025-11-24,Food,Snacks,63.0,Expense,Cash,2025,2025-11,November,Q4,Monday,False
+2025-11-24,Food,Groceries,180.0,Expense,Cash,2025,2025-11,November,Q4,Monday,False
+2025-11-25,Transport,Auto fare,151.0,Expense,UPI,2025,2025-11,November,Q4,Tuesday,False
+2025-11-25,Food,Cafe,274.0,Expense,Cash,2025,2025-11,November,Q4,Tuesday,False
+2025-11-27,Food,Cafe,150.0,Expense,Credit Card,2025,2025-11,November,Q4,Thursday,False
+2025-11-27,Transport,Auto fare,125.0,Expense,UPI,2025,2025-11,November,Q4,Thursday,False
+2025-11-27,Shopping,Flipkart order,739.0,Expense,UPI,2025,2025-11,November,Q4,Thursday,False
+2025-11-28,Food,Groceries,233.0,Expense,Credit Card,2025,2025-11,November,Q4,Friday,False
+2025-11-28,Transport,Fuel,72.0,Expense,UPI,2025,2025-11,November,Q4,Friday,False
+2025-11-29,Shopping,Clothes,393.0,Expense,Credit Card,2025,2025-11,November,Q4,Saturday,True
+2025-11-30,Entertainment,Concert,443.0,Expense,UPI,2025,2025-11,November,Q4,Sunday,True
+2025-12-01,Transport,Auto fare,215.0,Expense,Cash,2025,2025-12,December,Q4,Monday,False
+2025-12-01,Food,Groceries,284.0,Expense,Debit Card,2025,2025-12,December,Q4,Monday,False
+2025-12-01,Salary,Monthly salary,50000.0,Income,Bank Transfer,2025,2025-12,December,Q4,Monday,False
+2025-12-02,Food,Dinner,153.0,Expense,UPI,2025,2025-12,December,Q4,Tuesday,False
+2025-12-02,Transport,Metro card recharge,139.0,Expense,Cash,2025,2025-12,December,Q4,Tuesday,False
+2025-12-03,Food,Groceries,152.0,Expense,Debit Card,2025,2025-12,December,Q4,Wednesday,False
+2025-12-04,Food,Snacks,107.0,Expense,Credit Card,2025,2025-12,December,Q4,Thursday,False
+2025-12-04,Transport,Metro card recharge,229.0,Expense,Cash,2025,2025-12,December,Q4,Thursday,False
+2025-12-05,Rent,House rent,12000.0,Expense,Bank Transfer,2025,2025-12,December,Q4,Friday,False
+2025-12-05,Food,Breakfast,228.0,Expense,Debit Card,2025,2025-12,December,Q4,Friday,False
+2025-12-05,Transport,Auto fare,46.0,Expense,UPI,2025,2025-12,December,Q4,Friday,False
+2025-12-06,Entertainment,Bowling,293.0,Expense,Credit Card,2025,2025-12,December,Q4,Saturday,True
+2025-12-06,Food,Lunch,446.0,Expense,Cash,2025,2025-12,December,Q4,Saturday,True
+2025-12-07,Food,Dinner,259.0,Expense,Credit Card,2025,2025-12,December,Q4,Sunday,True
+2025-12-08,Transport,Fuel,77.0,Expense,UPI,2025,2025-12,December,Q4,Monday,False
+2025-12-09,Food,Zomato order,204.0,Expense,Credit Card,2025,2025-12,December,Q4,Tuesday,False
+2025-12-09,Transport,Auto fare,128.0,Expense,UPI,2025,2025-12,December,Q4,Tuesday,False
+2025-12-10,Bills,Electricity bill,1078.0,Expense,UPI,2025,2025-12,December,Q4,Wednesday,False
+2025-12-10,Food,Breakfast,236.0,Expense,UPI,2025,2025-12,December,Q4,Wednesday,False
+2025-12-10,Transport,Bus pass,117.0,Expense,UPI,2025,2025-12,December,Q4,Wednesday,False
+2025-12-11,Food,Zomato order,227.0,Expense,UPI,2025,2025-12,December,Q4,Thursday,False
+2025-12-11,Transport,Bus pass,144.0,Expense,UPI,2025,2025-12,December,Q4,Thursday,False
+2025-12-12,Bills,Internet bill,799.0,Expense,Bank Transfer,2025,2025-12,December,Q4,Friday,False
+2025-12-12,Transport,Metro card recharge,354.0,Expense,UPI,2025,2025-12,December,Q4,Friday,False
+2025-12-12,Shopping,Clothes,696.0,Expense,Credit Card,2025,2025-12,December,Q4,Friday,False
+2025-12-13,Shopping,Clothes,1443.0,Expense,UPI,2025,2025-12,December,Q4,Saturday,True
+2025-12-13,Food,Snacks,118.0,Expense,Cash,2025,2025-12,December,Q4,Saturday,True
+2025-12-13,Food,Snacks,228.0,Expense,Cash,2025,2025-12,December,Q4,Saturday,True
+2025-12-14,Food,Breakfast,235.0,Expense,Cash,2025,2025-12,December,Q4,Sunday,True
+2025-12-14,Food,Dinner,378.0,Expense,UPI,2025,2025-12,December,Q4,Sunday,True
+2025-12-14,Shopping,Shoes,1096.0,Expense,Credit Card,2025,2025-12,December,Q4,Sunday,True
+2025-12-15,Bills,Mobile recharge,399.0,Expense,Bank Transfer,2025,2025-12,December,Q4,Monday,False
+2025-12-15,Food,Dinner,295.0,Expense,Cash,2025,2025-12,December,Q4,Monday,False
+2025-12-16,Food,Snacks,151.0,Expense,Credit Card,2025,2025-12,December,Q4,Tuesday,False
+2025-12-18,Transport,Bus pass,283.0,Expense,Cash,2025,2025-12,December,Q4,Thursday,False
+2025-12-19,Transport,Uber ride,70.0,Expense,UPI,2025,2025-12,December,Q4,Friday,False
+2025-12-20,Entertainment,Concert,617.0,Expense,UPI,2025,2025-12,December,Q4,Saturday,True
+2025-12-20,Subscriptions,Netflix,649.0,Expense,Credit Card,2025,2025-12,December,Q4,Saturday,True
+2025-12-20,Food,Breakfast,222.0,Expense,UPI,2025,2025-12,December,Q4,Saturday,True
+2025-12-21,Food,Dinner,229.0,Expense,Cash,2025,2025-12,December,Q4,Sunday,True
+2025-12-22,Subscriptions,Spotify,119.0,Expense,UPI,2025,2025-12,December,Q4,Monday,False
+2025-12-22,Food,Zomato order,312.0,Expense,UPI,2025,2025-12,December,Q4,Monday,False
+2025-12-23,Transport,Metro card recharge,63.0,Expense,Debit Card,2025,2025-12,December,Q4,Tuesday,False
+2025-12-23,Shopping,Shoes,527.0,Expense,UPI,2025,2025-12,December,Q4,Tuesday,False
+2025-12-24,Shopping,Clothes,1175.0,Expense,Credit Card,2025,2025-12,December,Q4,Wednesday,False
+2025-12-24,Transport,Uber ride,75.0,Expense,UPI,2025,2025-12,December,Q4,Wednesday,False
+2025-12-24,Food,Lunch,222.0,Expense,Cash,2025,2025-12,December,Q4,Wednesday,False
+2025-12-24,Food,Groceries,210.0,Expense,UPI,2025,2025-12,December,Q4,Wednesday,False
+2025-12-25,Transport,Auto fare,142.0,Expense,UPI,2025,2025-12,December,Q4,Thursday,False
+2025-12-26,Food,Groceries,139.0,Expense,Cash,2025,2025-12,December,Q4,Friday,False
+2025-12-26,Uncategorized,Uber ride,90.0,Expense,UPI,2025,2025-12,December,Q4,Friday,False
+2025-12-27,Entertainment,Concert,457.0,Expense,Credit Card,2025,2025-12,December,Q4,Saturday,True
+2025-12-27,Food,Dinner,104.0,Expense,UPI,2025,2025-12,December,Q4,Saturday,True
+2025-12-27,Food,Dinner,397.0,Expense,UPI,2025,2025-12,December,Q4,Saturday,True
+2025-12-28,Food,Snacks,264.0,Expense,UPI,2025,2025-12,December,Q4,Sunday,True
+2025-12-29,Shopping,Gadget accessory,402.0,Expense,Credit Card,2025,2025-12,December,Q4,Monday,False
+2025-12-29,Food,Zomato order,258.0,Expense,UPI,2025,2025-12,December,Q4,Monday,False
+2025-12-30,Transport,Metro card recharge,115.0,Expense,Cash,2025,2025-12,December,Q4,Tuesday,False
+2025-12-31,Food,Lunch,173.0,Expense,UPI,2025,2025-12,December,Q4,Wednesday,False
+2025-12-31,Food,Groceries,98.0,Expense,UPI,2025,2025-12,December,Q4,Wednesday,False
+2025-12-31,Transport,Bus pass,304.0,Expense,Debit Card,2025,2025-12,December,Q4,Wednesday,False

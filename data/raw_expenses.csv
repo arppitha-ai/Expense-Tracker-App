@@ -1,0 +1,753 @@
+Date,Category,Description,Amount,Type,Payment_Method
+2025-01-01,Salary,Monthly salary,50000,Income,Bank Transfer
+2025-01-01,Food,Lunch,260,Expense,Debit Card
+2025-01-02,  Food ,Breakfast,175,Expense,Credit Card
+2025-01-02,  Transport ,Auto fare,150,Expense,UPI
+2025-01-03,Food,Dinner,159,Expense,Credit Card
+2025-01-03,Transport,Metro card recharge,149,Expense,UPI
+2025-01-04,Food,Swiggy order,292,Expense,UPI
+2025-01-04,Food,Snacks,210,Expense,UPI
+2025-01-05,Rent,House rent,12000,Expense,Bank Transfer
+2025-01-05,Food,Swiggy order,233,Expense,UPI
+2025-01-05,Entertainment,Bowling,514,Expense,Credit Card
+2025-01-06,Food,Lunch,128,Expense,UPI
+2025-01-06,Transport,Auto fare,215,Expense,UPI
+2025-01-07,Food,Snacks,145,Expense,UPI
+2025-01-07,transport,Metro card recharge,56,Expense,UPI
+2025-01-07,Shopping,Flipkart order,1213,Expense,Credit Card
+2025-01-08,Education,Books,3493,Expense,UPI
+2025-01-08,Food,Cafe,144,Expense,UPI
+2025-01-08,Food,Snacks,99,Expense,UPI
+2025-01-08,Transport,Auto fare,160,Expense,Cash
+2025-01-09,Food,Zomato order,89,Expense,Debit Card
+2025-01-10,Bills,Electricity bill,1367,Expense,Bank Transfer
+2025-01-10,Food,Lunch,111,Expense,Debit Card
+2025-01-10,Transport,Fuel,156,Expense,UPI
+2025-01-11,FOOD,Lunch,223,Expense,Cash
+2025-01-11,Food,Groceries,198,Expense,UPI
+2025-01-11,Shopping,Clothes,2034,Expense,Credit Card
+2025-01-11,Entertainment,Dinner out with friends,311,Expense,UPI
+2025-01-12,Bills,Internet bill,799,Expense,UPI
+2025-01-12,Food,Breakfast,114,Expense,UPI
+2025-01-12,Food,Breakfast,254,Expense,UPI
+2025-01-13,food,Breakfast,141,Expense,UPI
+2025-01-13,Transport,Metro card recharge,132,Expense,UPI
+2025-01-14,Food,Cafe,377,Expense,Credit Card
+2025-01-14,Transport,Fuel,59,Expense,UPI
+2025-01-15,Bills,Mobile recharge,399,Expense,Bank Transfer
+2025-01-15,FOOD,Pizza order,202,Expense,UPI
+2025-01-15,Transport,Bus pass,157,Expense,UPI
+2025-01-16,Food,Pizza order,161,Expense,UPI
+2025-01-16,Transport,Uber ride,94,Expense,UPI
+2025-01-16,Shopping,Gadget accessory,2262,Expense,Credit Card
+2025-01-17,Food,Snacks,157,Expense,Cash
+2025-01-18,Entertainment,Movie tickets,572,Expense,UPI
+2025-01-19,Food,Snacks,151,Expense,UPI
+2025-01-20,Subscriptions,Netflix,649,Expense,Credit Card
+2025-01-20,Cab,Auto fare,99,Expense,UPI
+2025-01-21,Transport,Auto fare,133,Expense,UPI
+2025-01-22,Subscriptions,Spotify,119,Expense,Credit Card
+2025-01-23,Food,Swiggy order,127,Expense,UPI
+2025-01-23,Transport,Fuel,87,Expense,UPI
+2025-01-24,Food,Groceries,95,Expense,Cash
+2025-01-24,Shopping,Home items,722,Expense,Credit Card
+2025-01-25,Freelance,Freelance project payment,8500,Income,Bank Transfer
+2025-01-25,Food,Breakfast,119,Expense,UPI
+2025-01-25,Food,Lunch,196,Expense,UPI
+2025-01-26,Food,Lunch,Rs 160,Expense,UPI
+2025-01-26,Entertainment,Concert,938,Expense,UPI
+2025-01-27,Food,Dinner,291,Expense,UPI
+2025-01-27,Food,Snacks,211,Expense,Credit Card
+2025-01-28,Food,Breakfast,162,Expense,UPI
+2025-01-28,Transport,Bus pass,26,Expense,UPI
+2025-01-29,Food,Cafe,370,Expense,UPI
+2025-01-29,Transport,Fuel,116,Expense,Cash
+2025-01-30,Food,Dinner,207,Expense,Credit Card
+2025-01-31,Food,Groceries,100,Expense,Credit Card
+2025-01-31,Transport,Fuel,242,Expense,UPI
+2025-02-01,Salary,Monthly salary,50000,Income,Bank Transfer
+2025-02-03,Food,Swiggy order,224,Expense,UPI
+2025-02-04,Cab,Auto fare,46,Expense,UPI
+2025-02-05,Rent,House rent,12000,Expense,Bank Transfer
+2025-02-05,Food,Groceries,189,Expense,UPI
+2025-02-05,Transport,Metro card recharge,110,Expense,UPI
+2025-02-06,Food,Zomato order,117,Expense,UPI
+2025-02-06,Transport,Fuel,266,Expense,Cash
+2025-02-07,Food,Breakfast,350,Expense,UPI
+2025-02-07,Food,Snacks,306,Expense,Credit Card
+2025-02-07,TRANSPORT,Bus pass,75,Expense,UPI
+2025-02-08,Entertainment,Gaming,601,Expense,UPI
+2025-02-09,Food,Cafe,245,Expense,UPI
+2025-02-09,Food,Breakfast,204,Expense,Credit Card
+2025-02-10,Bills,Electricity bill,903,Expense,UPI
+2025-02-10,Food,Dinner,87,Expense,UPI
+2025-02-11,Food,Cafe,120,Expense,UPI
+2025-02-11,Food,Swiggy order,163,Expense,Cash
+2025-02-12,Bills,Internet bill,799,Expense,UPI
+2025-02-12,Food,Snacks,91,Expense,UPI
+2025-02-12,Transport,Uber ride,111,Expense,Cash
+2025-02-13,TRANSPORT,Uber ride,155,Expense,Cash
+2025-02-14,Food,Dinner,275,Expense,Debit Card
+2025-02-14,Transport,Fuel,111,Expense,UPI
+2025-02-15,BILLS,Mobile recharge,399,Expense,UPI
+2025-02-15,Food,Zomato order,257,Expense,UPI
+2025-02-15,Food,Groceries,152,Expense,UPI
+2025-02-15,Entertainment,Bowling,445,Expense,UPI
+2025-02-16,  Food ,Breakfast,194,Expense,Cash
+2025-02-17,Food,Cafe,188,Expense,Credit Card
+2025-02-18,Food,Snacks,229,Expense,Credit Card
+2025-02-18,Cab,Uber ride,158,Expense,UPI
+2025-02-18,Cab,Uber ride,158,Expense,UPI
+2025-02-19,Food,Dinner,314,Expense,UPI
+2025-02-19,Transport,Fuel,20,Expense,Debit Card
+2025-02-20,Subscriptions,Netflix,649,Expense,Credit Card
+2025-02-20,Food,Lunch,178,Expense,UPI
+2025-02-20,TRANSPORT,Fuel,179,Expense,UPI
+2025-02-21,Food,Swiggy order,156,Expense,UPI
+2025-02-21,Transport,Metro card recharge,130,Expense,UPI
+2025-02-22,Subscriptions,Spotify,119,Expense,UPI
+2025-02-22,Food,Breakfast,294,Expense,UPI
+2025-02-22,Eating Out,Snacks,370,Expense,UPI
+2025-02-23,food,Swiggy order,242,Expense,UPI
+2025-02-23,Entertainment,Bowling,625,Expense,Credit Card
+2025-02-24,  Transport ,Bus pass,65,Expense,UPI
+2025-02-25,Freelance,Freelance project payment,8500,Income,UPI
+2025-02-25,Food,Dinner,237,Expense,Debit Card
+2025-02-25,Transport,Uber ride,134,Expense,UPI
+2025-02-25,Shopping,Flipkart order,525,Expense,UPI
+2025-02-26,Food,Dinner,200,Expense,Cash
+2025-02-27,Food,Pizza order,117,Expense,Debit Card
+2025-02-28,Food,Groceries,96,Expense,Credit Card
+2025-02-28,Food,Cafe,134,Expense,UPI
+2025-03-01,Salary,Monthly salary,50000,Income,Bank Transfer
+2025-03-01,Food,Pizza order,312,Expense,UPI
+2025-03-01,Entertainment,Concert,549,Expense,Credit Card
+2025-03-02,Food,Breakfast,246,Expense,UPI
+2025-03-02,Health,Gym fee,389,Expense,UPI
+2025-03-04,Transport,Auto fare,38,Expense,UPI
+2025-03-05,  Rent ,House rent,12000,Expense,Bank Transfer
+2025-03-05,Food,Swiggy order,233,Expense,UPI
+2025-03-05,Transport,Bus pass,110,Expense,UPI
+2025-03-06,Food,Zomato order,390,Expense,UPI
+2025-03-06,Transport,Uber ride,171,Expense,UPI
+2025-03-07,Food,Swiggy order,169,Expense,UPI
+2025-03-08,Food,Swiggy order,315,Expense,Cash
+2025-03-08,Entertainment,Concert,575,Expense,Cash
+2025-03-09,Food,Dinner,319,Expense,UPI
+2025-03-10,Bills,Electricity bill,1373,Expense,UPI
+2025-03-10,Food,Dinner,138,Expense,UPI
+2025-03-10,Eating Out,Pizza order,152,Expense,UPI
+2025-03-10,Shopping,Amazon order,224,Expense,Credit Card
+2025-03-11,Food,Breakfast,107,Expense,UPI
+2025-03-11,food,Pizza order,273,Expense,UPI
+2025-03-11,Transport,Fuel,105,Expense,UPI
+2025-03-11,Shopping,Amazon order,484,Expense,Credit Card
+2025-03-12,Bills,Internet bill,799,Expense,UPI
+2025-03-12,Food,Lunch,107,Expense,UPI
+2025-03-12,Transport,Auto fare,49,Expense,Cash
+2025-03-13,Food,Dinner,208,Expense,UPI
+2025-03-13,Transport,Metro card recharge,142,Expense,UPI
+2025-03-13,Health,Pharmacy,193,Expense,Debit Card
+2025-03-14,Food,Swiggy order,74,Expense,Credit Card
+2025-03-14,  Transport ,Uber ride,164,Expense,Cash
+2025-03-14,Food,Swiggy order,74,Expense,Credit Card
+2025-03-15,Bills,Mobile recharge,399,Expense,UPI
+2025-03-15,Eating Out,Snacks,368,Expense,UPI
+2025-03-16,Food,Cafe,258,Expense,UPI
+2025-03-16,Food,Snacks,229,Expense,Cash
+2025-03-17,Food,Lunch,186,Expense,Cash
+2025-03-17,Food,Cafe,203,Expense,Debit Card
+2025-03-17,Transport,Auto fare,114,Expense,Debit Card
+2025-03-18,Transport,Uber ride,110,Expense,UPI
+2025-03-18,Health,Emergency hospital visit,14500,Expense,Cash
+2025-03-19,Food,Groceries,274,Expense,Credit Card
+2025-03-19,Transport,Fuel,63,Expense,UPI
+2025-03-20,Subscriptions,Netflix,649,Expense,UPI
+2025-03-20,Transport,Fuel,137,Expense,UPI
+2025-03-21,food,Lunch,,Expense,UPI
+2025-03-22,Subscriptions,Spotify,119,Expense,UPI
+2025-03-22,Eating Out,Snacks,96,Expense,Credit Card
+2025-03-23,Food,Cafe,133,Expense,Credit Card
+2025-03-23,Entertainment,Bowling,885,Expense,Credit Card
+2025-03-23,Health,Pharmacy,615,Expense,Cash
+2025-03-24,Food,Pizza order,711,Expense,Cash
+2025-03-24,Transport,Uber ride,97,Expense,UPI
+2025-03-25,Freelance,Freelance project payment,4000,Income,UPI
+2025-03-25,Food,Groceries,109,Expense,UPI
+2025-03-26,Food,Swiggy order,131,Expense,UPI
+2025-03-26,Transport,Metro card recharge,185,Expense,Cash
+2025-03-27,Food,Snacks,168,Expense,Debit Card
+2025-03-28,Food,Pizza order,55,Expense,Credit Card
+2025-03-28,Transport,Auto fare,94,Expense,UPI
+2025-03-29,Food,Swiggy order,111,Expense,UPI
+2025-03-29,Food,Breakfast,231,Expense,UPI
+2025-03-29,Entertainment,Dinner out with friends,457,Expense,UPI
+2025-03-30,Food,Lunch,284,Expense,Cash
+2025-03-30,Food,Dinner,372,Expense,Credit Card
+2025-03-31,Food,Breakfast,179,Expense,UPI
+2025-03-31,Transport,Fuel,108,Expense,UPI
+2025-04-01,Salary,Monthly salary,50000,Income,Bank Transfer
+2025-04-01,Food,Zomato order,195,Expense,UPI
+2025-04-01,Transport,Auto fare,211,Expense,UPI
+2025-04-02,Food,Groceries,145,Expense,Debit Card
+2025-04-03,Cab,Uber ride,78,Expense,UPI
+2025-04-04,Food,Swiggy order,180,Expense,Cash
+2025-04-04,Transport,Auto fare,53,Expense,UPI
+2025-04-04,Shopping,Flipkart order,919,Expense,Credit Card
+2025-04-05,rent,House rent,12000,Expense,Bank Transfer
+2025-04-05,Food,Swiggy order,363,Expense,Cash
+2025-04-06,Food,Groceries,262,Expense,UPI
+2025-04-07,Eating Out,Breakfast,331,Expense,UPI
+2025-04-08,Food,Lunch,246,Expense,UPI
+2025-04-08,Transport,Fuel,176,Expense,UPI
+2025-04-08,Shopping,Amazon order,719,Expense,UPI
+2025-04-08,,Lab tests,253,Expense,UPI
+2025-04-09,Transport,Bus pass,124,Expense,UPI
+2025-04-10,Bills,Electricity bill,2169,Expense,UPI
+2025-04-10,Food,Snacks,144,Expense,Cash
+2025-04-10,Transport,Metro card recharge,225,Expense,Debit Card
+2025-04-11,Eating Out,Groceries,265,Expense,UPI
+2025-04-12,bills,Internet bill,799,Expense,UPI
+2025-04-12,food,Zomato order,150,Expense,Debit Card
+2025-04-12,Food,Pizza order,Rs 144,Expense,Debit Card
+2025-04-12,Food,Pizza order,Rs 144,Expense,Debit Card
+2025-04-13,Food,Groceries,236,Expense,UPI
+2025-04-13,,Dinner,270,Expense,UPI
+2025-04-14,Food,Lunch,209,Expense,UPI
+2025-04-14,Shopping,Home items,784,Expense,Debit Card
+2025-04-15,Bills,Mobile recharge,399,Expense,UPI
+2025-04-15,Food,Groceries,324,Expense,UPI
+2025-04-16,Food,Breakfast,228,Expense,UPI
+2025-04-16,Transport,Metro card recharge,,Expense,Cash
+2025-04-17,Food,Swiggy order,263,Expense,UPI
+2025-04-17,Cab,Uber ride,172,Expense,Cash
+2025-04-18,Eating Out,Zomato order,248,Expense,Cash
+2025-04-19,Shopping,Amazon order,1112,Expense,Credit Card
+2025-04-19,Entertainment,Movie tickets,501,Expense,UPI
+2025-04-20,Subscriptions,Netflix,649,Expense,Credit Card
+2025-04-20,Food,Breakfast,198,Expense,Credit Card
+2025-04-20,Food,Cafe,196,Expense,Credit Card
+2025-04-20,Shopping,Flipkart order,1950,Expense,Credit Card
+2025-04-21,FOOD,Zomato order,69,Expense,UPI
+2025-04-21,Shopping,Gadget accessory,715,Expense,Credit Card
+2025-04-22,Subscriptions,Spotify,119,Expense,UPI
+2025-04-22,Food,Breakfast,233,Expense,UPI
+2025-04-23,Food,Dinner,152,Expense,Cash
+2025-04-23,Transport,Fuel,524,Expense,Cash
+2025-04-23,  Shopping ,Shoes,452,Expense,Credit Card
+2025-04-24,Food,Breakfast,121,Expense,UPI
+2025-04-24,Transport,Uber ride,54,Expense,UPI
+2025-04-24,Travel,Hotel stay,2849,Expense,Debit Card
+2025-04-24,Transport,Uber ride,54,Expense,UPI
+2025-04-25,Food,Cafe,339,Expense,Debit Card
+2025-04-25,Transport,Auto fare,383,Expense,UPI
+2025-04-26,Food,Swiggy order,178,Expense,UPI
+2025-04-26,Food,Lunch,165,Expense,UPI
+2025-04-26,Entertainment,Gaming,563,Expense,Credit Card
+2025-04-27,Shopping,Flipkart order,394,Expense,Credit Card
+2025-04-28,Food,Lunch,205,Expense,UPI
+2025-04-28,Transport,Bus pass,186,Expense,Debit Card
+2025-04-29,Transport,Auto fare,30,Expense,UPI
+2025-04-30,Food,Swiggy order,342,Expense,Credit Card
+2025-04-30,Food,Groceries,108,Expense,UPI
+2025-04-30,Transport,Metro card recharge,125,Expense,Debit Card
+2025-05-01,SALARY,Monthly salary,50000,Income,Bank Transfer
+2025-05-01,Food,Zomato order,195,Expense,UPI
+2025-05-01,Transport,Auto fare,117,Expense,UPI
+2025-05-02,Food,Swiggy order,166,Expense,Credit Card
+2025-05-03,TRAVEL,Flight tickets,2154,Expense,UPI
+2025-05-04,Eating Out,Lunch,378,Expense,UPI
+2025-05-04,Food,Cafe,316,Expense,UPI
+2025-05-04,Entertainment,Bowling,1114,Expense,Credit Card
+2025-05-05,Rent,House rent,12000,Expense,Bank Transfer
+2025-05-05,Food,Cafe,249,Expense,Debit Card
+2025-05-06,Eating Out,Swiggy order,224,Expense,Cash
+2025-05-06,Food,Swiggy order,56,Expense,Cash
+2025-05-06,Transport,Bus pass,97,Expense,UPI
+2025-05-06,Food,Swiggy order,56,Expense,Cash
+2025-05-07,Food,Zomato order,155,Expense,UPI
+2025-05-07,Transport,Auto fare,76,Expense,Cash
+2025-05-08,Food,Snacks,83,Expense,UPI
+2025-05-08,Transport,Auto fare,63,Expense,Debit Card
+2025-05-09,Food,Zomato order,576,Expense,Cash
+2025-05-09,Transport,Uber ride,156,Expense,UPI
+2025-05-10,Bills,Electricity bill,1985,Expense,UPI
+2025-05-10,Shopping,Flipkart order,1261,Expense,UPI
+2025-05-10,Entertainment,Concert,1075,Expense,UPI
+2025-05-11,Food,Breakfast,186,Expense,UPI
+2025-05-11,Food,Dinner,101,Expense,UPI
+2025-05-12,Bills,Internet bill,799,Expense,Bank Transfer
+2025-05-12,Food,Dinner,204,Expense,Debit Card
+2025-05-12,Transport,Bus pass,168,Expense,UPI
+2025-05-13,Food,Cafe,158,Expense,UPI
+2025-05-13,  Transport ,Uber ride,63,Expense,Cash
+2025-05-14,food,Breakfast,73,Expense,Debit Card
+2025-05-14,Food,Zomato order,223,Expense,Debit Card
+2025-05-15,Bills,Mobile recharge,399,Expense,UPI
+2025-05-15,Food,Swiggy order,191,Expense,UPI
+2025-05-15,Transport,Fuel,93,Expense,Cash
+2025-05-16,Food,Lunch,266,Expense,Debit Card
+2025-05-16,Transport,Metro card recharge,106,Expense,UPI
+2025-05-17,Food,Snacks,297,Expense,UPI
+2025-05-17,Food,Snacks,196,Expense,UPI
+2025-05-19,Food,Lunch,159,Expense,UPI
+2025-05-20,subscriptions,Netflix,649,Expense,Credit Card
+2025-05-20,food,Pizza order,142,Expense,Cash
+2025-05-21,Food,Zomato order,116,Expense,UPI
+2025-05-22,Subscriptions,Spotify,119,Expense,Credit Card
+2025-05-22,Food,Zomato order,282,Expense,Cash
+2025-05-22,Food,Groceries,156,Expense,UPI
+2025-05-22,Transport,Uber ride,95,Expense,UPI
+2025-05-23,Food,Pizza order,118,Expense,UPI
+2025-05-23,Transport,Bus pass,134,Expense,UPI
+2025-05-24,Food,Lunch,256,Expense,Cash
+2025-05-25,Freelance,Freelance project payment,4100,Income,Bank Transfer
+2025-05-25,Food,Lunch,217,Expense,UPI
+2025-05-25,Food,Dinner,228,Expense,UPI
+2025-05-26,Cab,Fuel,38,Expense,Debit Card
+2025-05-27,Food,Groceries,292,Expense,UPI
+2025-05-27,Transport,Auto fare,167,Expense,UPI
+2025-05-28,Food,Swiggy order,80,Expense,Debit Card
+2025-05-29,Food,Zomato order,153,Expense,Cash
+2025-05-29,Transport,Metro card recharge,152,Expense,UPI
+2025-05-29,Shopping,Shoes,723,Expense,UPI
+2025-05-30,Food,Pizza order,Rs 159,Expense,Debit Card
+2025-05-30,  transport ,Metro card recharge,60,Expense,UPI
+2025-05-31,Food,Snacks,224,Expense,Credit Card
+2025-05-31,Food,Groceries,258,Expense,Credit Card
+2025-05-31,Entertainment,Concert,755,Expense,Cash
+2025-05-31,Health,Pharmacy,539,Expense,Cash
+2025-06-01,Salary,Monthly salary,50000,Income,Bank Transfer
+2025-06-01,Food,Lunch,338,Expense,UPI
+2025-06-01,Food,Zomato order,180,Expense,Credit Card
+2025-06-02,Food,Swiggy order,346,Expense,Cash
+2025-06-02,Shopping,Flipkart order,383,Expense,Credit Card
+2025-06-03,Eating Out,Swiggy order,143,Expense,UPI
+2025-06-03,Transport,Uber ride,126,Expense,Debit Card
+2025-06-04,Food,Dinner,220,Expense,Cash
+2025-06-04,Food,Lunch,240,Expense,Debit Card
+2025-06-05,Rent,House rent,12000,Expense,Bank Transfer
+2025-06-05,Food,Lunch,182,Expense,UPI
+2025-06-06,Transport,Bus pass,162,Expense,Cash
+2025-06-07,Food,Snacks,374,Expense,UPI
+2025-06-08,Education,Online course,3069,Expense,UPI
+2025-06-08,Food,Snacks,310,Expense,Debit Card
+2025-06-09,Transport,Auto fare,120,Expense,UPI
+2025-06-10,Bills,Electricity bill,2145,Expense,UPI
+2025-06-10,FOOD,Zomato order,265,Expense,Cash
+2025-06-10,shopping,Flipkart order,486,Expense,UPI
+2025-06-11,Food,Lunch,190,Expense,UPI
+2025-06-11,Shopping,Flipkart order,820,Expense,Debit Card
+2025-06-12,Bills,Internet bill,799,Expense,UPI
+2025-06-12,  Food ,Snacks,495,Expense,UPI
+2025-06-12,transport,Metro card recharge,89,Expense,Cash
+2025-06-13,Food,Pizza order,270,Expense,Credit Card
+2025-06-15,Bills,Mobile recharge,Rs 399,Expense,UPI
+2025-06-15,Food,Breakfast,164,Expense,UPI
+2025-06-15,Food,Pizza order,231,Expense,Credit Card
+2025-06-16,Eating Out,Zomato order,89,Expense,UPI
+2025-06-16,Transport,Auto fare,107,Expense,Cash
+2025-06-17,Food,Groceries,230,Expense,UPI
+2025-06-18,Cab,Bus pass,85,Expense,UPI
+2025-06-19,Food,Groceries,100,Expense,Cash
+2025-06-19,Food,Snacks,106,Expense,UPI
+2025-06-19,Transport,Auto fare,199,Expense,UPI
+2025-06-20,Subscriptions,Netflix,649,Expense,Credit Card
+2025-06-20,Food,Breakfast,366,Expense,Cash
+2025-06-21,Food,Snacks,231,Expense,Debit Card
+2025-06-21,Food,Swiggy order,301,Expense,UPI
+2025-06-22,Subscriptions,Spotify,119,Expense,Credit Card
+2025-06-22,Food,Swiggy order,193,Expense,UPI
+2025-06-22,Food,Snacks,191,Expense,UPI
+2025-06-22,Entertainment,Gaming,597,Expense,Credit Card
+2025-06-23,Food,Groceries,170,Expense,Credit Card
+2025-06-24,Food,Snacks,,Expense,Debit Card
+2025-06-24,Transport,Bus pass,103,Expense,Cash
+2025-06-25,Food,Swiggy order,343,Expense,Debit Card
+2025-06-26,Food,Pizza order,188,Expense,UPI
+2025-06-27,food,Breakfast,94,Expense,Credit Card
+2025-06-27,Cab,Metro card recharge,Rs 95,Expense,UPI
+2025-06-28,Food,Cafe,162,Expense,Credit Card
+2025-06-28,Food,Breakfast,264,Expense,Cash
+2025-06-29,Shopping,Shoes,"Rs 1,352",Expense,UPI
+2025-06-29,Entertainment,Movie tickets,709,Expense,Credit Card
+2025-06-30,Transport,Auto fare,355,Expense,UPI
+2025-07-01,Salary,Monthly salary,50000,Income,Bank Transfer
+2025-07-01,FOOD,Dinner,,Expense,Cash
+2025-07-02,Food,Lunch,64,Expense,UPI
+2025-07-02,Transport,Uber ride,157,Expense,UPI
+2025-07-03,Transport,Metro card recharge,60,Expense,UPI
+2025-07-04,TRANSPORT,Bus pass,,Expense,Cash
+2025-07-05,Rent,House rent,12000,Expense,Bank Transfer
+2025-07-05,Food,Snacks,135,Expense,Credit Card
+2025-07-06,Food,Snacks,307,Expense,UPI
+2025-07-06,Food,Groceries,184,Expense,Cash
+2025-07-07,Food,Pizza order,96,Expense,UPI
+2025-07-08,Education,Certification exam fee,2519,Expense,UPI
+2025-07-08,Food,Snacks,190,Expense,UPI
+2025-07-09,Shopping,Flipkart order,613,Expense,Credit Card
+2025-07-10,Bills,Electricity bill,928,Expense,UPI
+2025-07-10,Food,Cafe,243,Expense,UPI
+2025-07-10,Transport,Auto fare,332,Expense,UPI
+2025-07-11,Food,Breakfast,184,Expense,Credit Card
+2025-07-11,Transport,Bus pass,75,Expense,UPI
+2025-07-12,Bills,Internet bill,799,Expense,UPI
+2025-07-12,Food,Swiggy order,245,Expense,Cash
+2025-07-12,Entertainment,Dinner out with friends,482,Expense,Cash
+2025-07-13,Food,Cafe,248,Expense,UPI
+2025-07-13,Entertainment,Movie tickets,804,Expense,UPI
+2025-07-14,Food,Swiggy order,183,Expense,UPI
+2025-07-14,Food,Swiggy order,126,Expense,Debit Card
+2025-07-14,Transport,Auto fare,75,Expense,UPI
+2025-07-15,Bills,Mobile recharge,,Expense,UPI
+2025-07-15,Transport,Metro card recharge,263,Expense,UPI
+2025-07-15,Health,Lab tests,650,Expense,UPI
+2025-07-15,Bills,Mobile recharge,,Expense,UPI
+2025-07-16,Food,Swiggy order,194,Expense,UPI
+2025-07-17,Eating Out,Zomato order,,Expense,UPI
+2025-07-17,Cab,Auto fare,241,Expense,UPI
+2025-07-18,TRANSPORT,Auto fare,84,Expense,Cash
+2025-07-19,Food,Swiggy order,204,Expense,UPI
+2025-07-19,Entertainment,Dinner out with friends,436,Expense,UPI
+2025-07-20,Subscriptions,Netflix,649,Expense,Credit Card
+2025-07-20,Food,Zomato order,218,Expense,UPI
+2025-07-20,Food,Zomato order,146,Expense,UPI
+2025-07-20,Shopping,Amazon order,990,Expense,Debit Card
+2025-07-21,FOOD,Lunch,186,Expense,Credit Card
+2025-07-22,Subscriptions,Spotify,119,Expense,Credit Card
+2025-07-22,Transport,Bus pass,140,Expense,UPI
+2025-07-22,,Gym fee,493,Expense,Cash
+2025-07-23,Transport,Fuel,152,Expense,UPI
+2025-07-24,Food,Dinner,178,Expense,Credit Card
+2025-07-24,Transport,Fuel,123,Expense,UPI
+2025-07-25,freelance,Freelance project payment,6400,Income,Bank Transfer
+2025-07-25,Food,Dinner,487,Expense,Credit Card
+2025-07-26,Food,Dinner,389,Expense,Debit Card
+2025-07-26,SHOPPING,Amazon order,1140,Expense,UPI
+2025-07-26,Entertainment,Concert,727,Expense,UPI
+2025-07-27,Food,Groceries,136,Expense,Credit Card
+2025-07-27,Food,Dinner,290,Expense,Cash
+2025-07-28,Transport,Metro card recharge,262,Expense,UPI
+2025-07-30,  Food ,Cafe,198,Expense,Cash
+2025-07-30,Food,Dinner,214,Expense,UPI
+2025-08-01,salary,Monthly salary,50000,Income,Bank Transfer
+2025-08-01,Food,Swiggy order,112,Expense,UPI
+2025-08-01,Transport,Metro card recharge,39,Expense,UPI
+2025-08-02,Food,Dinner,230,Expense,Debit Card
+2025-08-03,Food,Groceries,343,Expense,UPI
+2025-08-03,Shopping,Flipkart order,908,Expense,UPI
+2025-08-04,Food,Groceries,177,Expense,Credit Card
+2025-08-04,Shopping,Clothes,1274,Expense,Debit Card
+2025-08-05,Rent,House rent,12000,Expense,Bank Transfer
+2025-08-05,Food,Groceries,112,Expense,UPI
+2025-08-07,Food,Pizza order,122,Expense,Cash
+2025-08-08,Food,Breakfast,197,Expense,UPI
+2025-08-08,Transport,Fuel,29,Expense,UPI
+2025-08-09,Food,Pizza order,201,Expense,UPI
+2025-08-09,Food,Cafe,180,Expense,UPI
+2025-08-09,ENTERTAINMENT,Movie tickets,526,Expense,Cash
+2025-08-10,Bills,Electricity bill,1244,Expense,UPI
+2025-08-10,Food,Dinner,363,Expense,UPI
+2025-08-10,Food,Lunch,260,Expense,Credit Card
+2025-08-11,Food,Breakfast,140,Expense,UPI
+2025-08-12,  Bills ,Internet bill,799,Expense,UPI
+2025-08-12,Transport,Fuel,92,Expense,UPI
+2025-08-13,Transport,Auto fare,142,Expense,UPI
+2025-08-14,FOOD,Cafe,465,Expense,UPI
+2025-08-14,Transport,Auto fare,238,Expense,UPI
+2025-08-15,Bills,Mobile recharge,399,Expense,UPI
+2025-08-15,Food,Dinner,113,Expense,UPI
+2025-08-15,Transport,Auto fare,89,Expense,Cash
+2025-08-16,Eating Out,Breakfast,203,Expense,UPI
+2025-08-16,Shopping,Amazon order,503,Expense,Credit Card
+2025-08-16,Entertainment,Gaming,912,Expense,Credit Card
+2025-08-17,Food,Lunch,130,Expense,Cash
+2025-08-17,Entertainment,Concert,937,Expense,Credit Card
+2025-08-18,Food,Zomato order,331,Expense,UPI
+2025-08-18,Transport,Metro card recharge,193,Expense,UPI
+2025-08-19,Shopping,Clothes,923,Expense,UPI
+2025-08-20,Subscriptions,Netflix,649,Expense,Credit Card
+2025-08-20,Food,Snacks,129,Expense,Cash
+2025-08-21,Food,Zomato order,195,Expense,Cash
+2025-08-21,Transport,Auto fare,108,Expense,UPI
+2025-08-22,  Subscriptions ,Spotify,119,Expense,Credit Card
+2025-08-22,Food,Breakfast,220,Expense,UPI
+2025-08-22,Cab,Fuel,97,Expense,Cash
+2025-08-22,Shopping,Laptop repair + accessories,18500,Expense,Credit Card
+2025-08-23,,Pizza order,407,Expense,UPI
+2025-08-24,Food,Groceries,231,Expense,UPI
+2025-08-24,Food,Pizza order,570,Expense,UPI
+2025-08-24,Entertainment,Bowling,754,Expense,Credit Card
+2025-08-25,Food,Lunch,109,Expense,UPI
+2025-08-26,Food,Zomato order,549,Expense,UPI
+2025-08-27,Food,Breakfast,117,Expense,Cash
+2025-08-27,Transport,Auto fare,83,Expense,UPI
+2025-08-27,Shopping,Gadget accessory,409,Expense,Credit Card
+2025-08-28,Food,Dinner,308,Expense,UPI
+2025-08-28,Food,Dinner,171,Expense,UPI
+2025-08-29,Food,Pizza order,240,Expense,UPI
+2025-08-30,Food,Breakfast,232,Expense,UPI
+2025-08-31,Food,Zomato order,157,Expense,UPI
+2025-08-31,Food,Breakfast,598,Expense,Debit Card
+2025-08-31,Health,Lab tests,714,Expense,Debit Card
+2025-09-01,Salary,Monthly salary,50000,Income,Bank Transfer
+2025-09-01,Food,Snacks,200,Expense,UPI
+2025-09-01,  Transport ,Fuel,Rs 334,Expense,Cash
+2025-09-01,Health,Lab tests,605,Expense,Cash
+2025-09-01,Salary,Monthly salary,50000,Income,Bank Transfer
+2025-09-02,Food,Groceries,379,Expense,UPI
+2025-09-02,Shopping,Amazon order,2802,Expense,Credit Card
+2025-09-02,Health,Gym fee,463,Expense,UPI
+2025-09-03,Eating Out,Groceries,190,Expense,Cash
+2025-09-03,Transport,Bus pass,71,Expense,Debit Card
+2025-09-03,Shopping,Flipkart order,1314,Expense,Debit Card
+2025-09-04,Eating Out,Zomato order,137,Expense,UPI
+2025-09-04,Transport,Bus pass,162,Expense,UPI
+2025-09-05,Rent,House rent,"Rs 12,000",Expense,Bank Transfer
+2025-09-05,Food,Dinner,248,Expense,Credit Card
+2025-09-06,Eating Out,Lunch,145,Expense,Cash
+2025-09-06,Entertainment,Gaming,1241,Expense,UPI
+2025-09-07,Food,Dinner,153,Expense,UPI
+2025-09-07,Entertainment,Gaming,736,Expense,Credit Card
+2025-09-08,,Pizza order,321,Expense,Cash
+2025-09-09,Food,Cafe,297,Expense,UPI
+2025-09-09,Transport,Auto fare,87,Expense,Cash
+2025-09-10,Bills,Electricity bill,1195,Expense,Bank Transfer
+2025-09-10,Transport,Uber ride,54,Expense,UPI
+2025-09-11,Food,Lunch,169,Expense,Credit Card
+2025-09-12,Bills,Internet bill,799,Expense,UPI
+2025-09-12,Eating Out,Swiggy order,313,Expense,UPI
+2025-09-13,  Food ,Swiggy order,Rs 369,Expense,UPI
+2025-09-13,Entertainment,Bowling,459,Expense,Cash
+2025-09-14,FOOD,Breakfast,144,Expense,Credit Card
+2025-09-14,Entertainment,Gaming,562,Expense,Cash
+2025-09-15,Bills,Mobile recharge,,Expense,UPI
+2025-09-15,Transport,Metro card recharge,84,Expense,UPI
+2025-09-16,Food,Swiggy order,,Expense,Cash
+2025-09-17,Food,Breakfast,232,Expense,UPI
+2025-09-17,Transport,Metro card recharge,104,Expense,UPI
+2025-09-18,Food,Cafe,154,Expense,Credit Card
+2025-09-18,Food,Zomato order,87,Expense,UPI
+2025-09-18,Transport,Bus pass,260,Expense,Cash
+2025-09-19,Food,Breakfast,261,Expense,Cash
+2025-09-19,Transport,Auto fare,72,Expense,UPI
+2025-09-20,Subscriptions,Netflix,649,Expense,Credit Card
+2025-09-20,Food,Groceries,61,Expense,UPI
+2025-09-21,Food,Breakfast,228,Expense,UPI
+2025-09-21,Shopping,Amazon order,469,Expense,UPI
+2025-09-22,Subscriptions,Spotify,119,Expense,Credit Card
+2025-09-22,Food,Swiggy order,158,Expense,UPI
+2025-09-23,Food,Cafe,111,Expense,Credit Card
+2025-09-24,Eating Out,Groceries,269,Expense,UPI
+2025-09-24,Transport,Fuel,109,Expense,Cash
+2025-09-24,Health,Doctor consultation,193,Expense,UPI
+2025-09-25,Transport,Uber ride,188,Expense,UPI
+2025-09-26,Food,Swiggy order,124,Expense,UPI
+2025-09-26,Transport,Fuel,190,Expense,Cash
+2025-09-27,Food,Lunch,284,Expense,UPI
+2025-09-27,Eating Out,Cafe,140,Expense,UPI
+2025-09-28,Food,Dinner,215,Expense,Credit Card
+2025-09-28,,Zomato order,430,Expense,Credit Card
+2025-09-29,Food,Lunch,151,Expense,UPI
+2025-09-29,Transport,Metro card recharge,215,Expense,UPI
+2025-09-30,Food,Zomato order,193,Expense,UPI
+2025-09-30,Transport,Metro card recharge,96,Expense,UPI
+2025-09-30,Health,Pharmacy,216,Expense,Debit Card
+2025-10-01,Salary,Monthly salary,50000,Income,Bank Transfer
+2025-10-01,food,Lunch,230,Expense,UPI
+2025-10-01,Food,Lunch,171,Expense,Debit Card
+2025-10-01,Transport,Uber ride,44,Expense,Debit Card
+2025-10-01,Shopping,Flipkart order,1611,Expense,UPI
+2025-10-02,Transport,Bus pass,246,Expense,UPI
+2025-10-03,Transport,Fuel,85,Expense,UPI
+2025-10-04,Food,Snacks,247,Expense,Cash
+2025-10-04,Entertainment,Bowling,436,Expense,UPI
+2025-10-05,Rent,House rent,12000,Expense,Bank Transfer
+2025-10-05,FOOD,Lunch,126,Expense,UPI
+2025-10-06,Eating Out,Groceries,72,Expense,Debit Card
+2025-10-06,Food,Breakfast,94,Expense,Credit Card
+2025-10-06,Transport,Fuel,144,Expense,UPI
+2025-10-07,Food,Dinner,181,Expense,Debit Card
+2025-10-07,Transport,Uber ride,155,Expense,UPI
+2025-10-07,Shopping,Flipkart order,614,Expense,UPI
+2025-10-08,Food,Zomato order,115,Expense,UPI
+2025-10-08,Transport,Metro card recharge,221,Expense,UPI
+2025-10-09,  Food ,Snacks,217,Expense,Cash
+2025-10-10,Food,Snacks,123,Expense,UPI
+2025-10-10,Food,Groceries,96,Expense,Credit Card
+2025-10-10,Transport,Fuel,194,Expense,UPI
+2025-10-11,Shopping,Shoes,572,Expense,Credit Card
+2025-10-12,Bills,Internet bill,799,Expense,UPI
+2025-10-12,Food,Cafe,223,Expense,UPI
+2025-10-12,Food,Swiggy order,208,Expense,Cash
+2025-10-13,Food,Snacks,147,Expense,Cash
+2025-10-13,Cab,Uber ride,165,Expense,UPI
+2025-10-14,Food,Groceries,122,Expense,UPI
+2025-10-14,Transport,Uber ride,80,Expense,Cash
+2025-10-14,Shopping,Home items,1668,Expense,UPI
+2025-10-15,Bills,Mobile recharge,399,Expense,Bank Transfer
+2025-10-15,Food,Lunch,93,Expense,Cash
+2025-10-15,Shopping,Flipkart order,853,Expense,Credit Card
+2025-10-16,Food,Lunch,322,Expense,UPI
+2025-10-16,Transport,Uber ride,275,Expense,UPI
+2025-10-16,Shopping,Clothes,,Expense,Credit Card
+2025-10-17,Food,Cafe,146,Expense,Debit Card
+2025-10-18,Food,Snacks,356,Expense,UPI
+2025-10-19,Food,Zomato order,262,Expense,Debit Card
+2025-10-20,Subscriptions,Netflix,649,Expense,Credit Card
+2025-10-20,Food,Cafe,133,Expense,Debit Card
+2025-10-20,Transport,Uber ride,141,Expense,Cash
+2025-10-20,Shopping,Diwali shopping spree,12000,Expense,Credit Card
+2025-10-21,  Transport ,Bus pass,Rs 113,Expense,Cash
+2025-10-22,Subscriptions,Spotify,119,Expense,Credit Card
+2025-10-22,Food,Groceries,144,Expense,UPI
+2025-10-22,Transport,Uber ride,282,Expense,UPI
+2025-10-22,Shopping,Amazon order,860,Expense,UPI
+2025-10-23,Transport,Auto fare,99,Expense,Cash
+2025-10-24,Food,Groceries,191,Expense,Debit Card
+2025-10-24,Transport,Uber ride,201,Expense,Cash
+2025-10-25,Freelance,Freelance project payment,3000,Income,UPI
+2025-10-25,Food,Swiggy order,179,Expense,UPI
+2025-10-25,Food,Dinner,175,Expense,Debit Card
+2025-10-26,Food,Dinner,164,Expense,UPI
+2025-10-26,Shopping,Clothes,456,Expense,Debit Card
+2025-10-27,Food,Snacks,242,Expense,UPI
+2025-10-27,food,Zomato order,173,Expense,Debit Card
+2025-10-27,Transport,Bus pass,74,Expense,UPI
+2025-10-27,Shopping,Flipkart order,2373,Expense,Debit Card
+2025-10-28,Food,Swiggy order,117,Expense,Cash
+2025-10-28,Food,Snacks,185,Expense,Cash
+2025-10-28,Transport,Auto fare,168,Expense,Cash
+2025-10-29,TRANSPORT,Uber ride,124,Expense,UPI
+2025-10-29,Shopping,Home items,"Rs 1,923",Expense,UPI
+2025-10-30,Food,Breakfast,119,Expense,UPI
+2025-10-30,transport,Uber ride,150,Expense,Cash
+2025-10-31,Food,Dinner,205,Expense,Cash
+2025-10-31,Transport,Uber ride,596,Expense,UPI
+2025-10-31,  Shopping ,Flipkart order,592,Expense,Credit Card
+2025-11-01,Salary,Monthly salary,50000,Income,Bank Transfer
+2025-11-01,Food,Snacks,149,Expense,UPI
+2025-11-01,Shopping,Home items,1704,Expense,Credit Card
+2025-11-02,Entertainment,Bowling,582,Expense,Credit Card
+2025-11-03,Food,Swiggy order,92,Expense,Cash
+2025-11-03,Food,Breakfast,123,Expense,UPI
+2025-11-03,Transport,Auto fare,73,Expense,Cash
+2025-11-04,Food,Groceries,270,Expense,Credit Card
+2025-11-04,Cab,Fuel,100,Expense,UPI
+2025-11-04,Shopping,Shoes,1200,Expense,Credit Card
+2025-11-05,Rent,House rent,12000,Expense,Bank Transfer
+2025-11-05,Food,Groceries,107,Expense,UPI
+2025-11-05,Transport,Fuel,248,Expense,UPI
+2025-11-06,Food,Snacks,191,Expense,Debit Card
+2025-11-06,Cab,Auto fare,174,Expense,UPI
+2025-11-06,Shopping,Amazon order,2227,Expense,Credit Card
+2025-11-07,Food,Swiggy order,237,Expense,Cash
+2025-11-07,Transport,Uber ride,72,Expense,UPI
+2025-11-07,Shopping,Home items,1102,Expense,UPI
+2025-11-08,Food,Zomato order,217,Expense,UPI
+2025-11-08,Entertainment,Dinner out with friends,386,Expense,UPI
+2025-11-10,  Bills ,Electricity bill,995,Expense,UPI
+2025-11-10,  Food ,Breakfast,118,Expense,Cash
+2025-11-10,Health,Lab tests,272,Expense,UPI
+2025-11-11,Food,Lunch,373,Expense,Cash
+2025-11-12,Bills,Internet bill,799,Expense,UPI
+2025-11-12,Food,Dinner,107,Expense,UPI
+2025-11-12,Transport,Fuel,Rs 167,Expense,UPI
+2025-11-13,Food,Swiggy order,218,Expense,Debit Card
+2025-11-13,Food,Swiggy order,264,Expense,Credit Card
+2025-11-14,Food,Lunch,228,Expense,UPI
+2025-11-14,Health,Doctor consultation,375,Expense,Cash
+2025-11-15,Bills,Mobile recharge,399,Expense,UPI
+2025-11-15,Eating Out,Swiggy order,314,Expense,UPI
+2025-11-16,Food,Cafe,95,Expense,Cash
+2025-11-16,Shopping,Shoes,776,Expense,Credit Card
+2025-11-16,Entertainment,Gaming,261,Expense,Credit Card
+2025-11-17,Cab,Metro card recharge,140,Expense,UPI
+2025-11-19,Food,Groceries,134,Expense,UPI
+2025-11-19,food,Zomato order,183,Expense,Cash
+2025-11-19,Transport,Uber ride,69,Expense,UPI
+2025-11-20,Subscriptions,Netflix,649,Expense,Credit Card
+2025-11-20,Food,Breakfast,85,Expense,Cash
+2025-11-20,Transport,Fuel,83,Expense,Debit Card
+2025-11-21,Food,Swiggy order,396,Expense,UPI
+2025-11-21,Transport,Fuel,118,Expense,Cash
+2025-11-22,subscriptions,Spotify,119,Expense,UPI
+2025-11-22,Food,Swiggy order,287,Expense,Cash
+2025-11-22,Food,Zomato order,197,Expense,Credit Card
+2025-11-23,Eating Out,Swiggy order,126,Expense,Cash
+2025-11-24,Food,Snacks,63,Expense,Cash
+2025-11-24,Eating Out,Groceries,180,Expense,Cash
+2025-11-25,Food,Cafe,274,Expense,Cash
+2025-11-25,Transport,Auto fare,151,Expense,UPI
+2025-11-27,Food,Cafe,Rs 150,Expense,Credit Card
+2025-11-27,Cab,Auto fare,125,Expense,UPI
+2025-11-27,Shopping,Flipkart order,739,Expense,UPI
+2025-11-28,Eating Out,Groceries,233,Expense,Credit Card
+2025-11-28,Transport,Fuel,72,Expense,UPI
+2025-11-29,Shopping,Clothes,393,Expense,Credit Card
+2025-11-30,Entertainment,Concert,443,Expense,UPI
+2025-12-01,Salary,Monthly salary,50000,Income,Bank Transfer
+2025-12-01,Food,Groceries,284,Expense,Debit Card
+2025-12-01,Transport,Auto fare,215,Expense,Cash
+2025-12-02,Food,Dinner,153,Expense,UPI
+2025-12-02,Transport,Metro card recharge,139,Expense,Cash
+2025-12-03,Food,Groceries,152,Expense,Debit Card
+2025-12-04,Food,Snacks,107,Expense,Credit Card
+2025-12-04,Transport,Metro card recharge,229,Expense,Cash
+2025-12-05,Rent,House rent,12000,Expense,Bank Transfer
+2025-12-05,Food,Breakfast,228,Expense,Debit Card
+2025-12-05,Transport,Auto fare,46,Expense,UPI
+2025-12-06,Food,Lunch,446,Expense,Cash
+2025-12-06,Entertainment,Bowling,293,Expense,Credit Card
+2025-12-07,Food,Dinner,259,Expense,Credit Card
+2025-12-08,Transport,Fuel,77,Expense,UPI
+2025-12-09,Food,Zomato order,204,Expense,Credit Card
+2025-12-09,Transport,Auto fare,128,Expense,UPI
+2025-12-10,Bills,Electricity bill,1078,Expense,UPI
+2025-12-10,Food,Breakfast,236,Expense,UPI
+2025-12-10,transport,Bus pass,Rs 117,Expense,UPI
+2025-12-11,Food,Zomato order,227,Expense,UPI
+2025-12-11,Transport,Bus pass,144,Expense,UPI
+2025-12-12,Bills,Internet bill,799,Expense,Bank Transfer
+2025-12-12,transport,Metro card recharge,354,Expense,UPI
+2025-12-12,Shopping,Clothes,696,Expense,Credit Card
+2025-12-13,Food,Snacks,118,Expense,Cash
+2025-12-13,Food,Snacks,228,Expense,Cash
+2025-12-13,Shopping,Clothes,1443,Expense,UPI
+2025-12-14,Food,Breakfast,235,Expense,Cash
+2025-12-14,Food,Dinner,378,Expense,UPI
+2025-12-14,Shopping,Shoes,1096,Expense,Credit Card
+2025-12-15,Bills,Mobile recharge,399,Expense,Bank Transfer
+2025-12-15,Food,Dinner,295,Expense,Cash
+2025-12-16,Food,Snacks,151,Expense,Credit Card
+2025-12-18,Transport,Bus pass,283,Expense,Cash
+2025-12-19,Transport,Uber ride,70,Expense,UPI
+2025-12-20,Subscriptions,Netflix,649,Expense,Credit Card
+2025-12-20,Food,Breakfast,222,Expense,UPI
+2025-12-20,Entertainment,Concert,617,Expense,UPI
+2025-12-21,Food,Dinner,229,Expense,Cash
+2025-12-22,Subscriptions,Spotify,119,Expense,UPI
+2025-12-22,Food,Zomato order,312,Expense,UPI
+2025-12-23,Transport,Metro card recharge,63,Expense,Debit Card
+2025-12-23,Shopping,Shoes,527,Expense,UPI
+2025-12-24,Food,Lunch,222,Expense,Cash
+2025-12-24,Food,Groceries,210,Expense,UPI
+2025-12-24,Transport,Uber ride,75,Expense,UPI
+2025-12-24,Shopping,Clothes,1175,Expense,Credit Card
+2025-12-25,Food,Cafe,,Expense,UPI
+2025-12-25,transport,Auto fare,142,Expense,UPI
+2025-12-26,Food,Groceries,139,Expense,Cash
+2025-12-26,,Uber ride,90,Expense,UPI
+2025-12-27,Food,Dinner,104,Expense,UPI
+2025-12-27,Food,Dinner,397,Expense,UPI
+2025-12-27,Entertainment,Concert,457,Expense,Credit Card
+2025-12-28,Food,Snacks,264,Expense,UPI
+2025-12-29,Food,Zomato order,258,Expense,UPI
+2025-12-29,Shopping,Gadget accessory,402,Expense,Credit Card
+2025-12-30,Transport,Metro card recharge,115,Expense,Cash
+2025-12-31,Food,Groceries,98,Expense,UPI
+2025-12-31,Eating Out,Lunch,173,Expense,UPI
+2025-12-31,Transport,Bus pass,304,Expense,Debit Card
+N/A,Bills,Electricity bill,1264,Expense,UPI
+N/A,Shopping,Amazon order,728,Expense,UPI
+N/A,Food,Dinner,291,Expense,Credit Card
