@@ -1,0 +1,12 @@
+Date,Category,Description,Amount,Z_Score
+2025-08-22,Shopping,Laptop repair + accessories,18500.0,6.12
+2025-03-18,Health,Emergency hospital visit,14500.0,3.32
+2025-10-20,Shopping,Diwali shopping spree,12000.0,3.78
+2025-03-24,Food,Pizza order,711.0,5.28
+2025-08-31,Food,Breakfast,598.0,4.09
+2025-10-31,Transport,Uber ride,596.0,5.36
+2025-05-09,Food,Zomato order,576.0,3.86
+2025-08-24,Food,Pizza order,570.0,3.8
+2025-08-26,Food,Zomato order,549.0,3.58
+2025-04-23,Transport,Fuel,524.0,4.51
+2025-06-12,Food,Snacks,495.0,3.01
